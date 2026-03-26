@@ -10,3 +10,8 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.tx
 
 
 https://raw.githubusercontent.com/MohamedElashri/filters/main/rules/adguard.txt
+
+
+
+
+http://live.lynxiptv.xyz/get.php?username=211149257319&password=cT7IPSZ8rC&type=m3u_plus&output=ts

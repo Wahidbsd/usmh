@@ -1,210 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="674534" tvg-name="|FR| CANAL+ FORMULA 1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/canal-plus-formula-one1.png" group-title="FR | FRANCE SPORTS", |FR| CANAL+ FORMULA 1
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/674534
-#EXTINF:-1 tvg-id="617364" tvg-name="|FR| MY TF1 FHD" tvg-logo="https://s9.gifyu.com/images/SCXyP.png" group-title="FR  | FRANCE GENERAL", |FR| MY TF1 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/617364
-#EXTINF:-1 tvg-id="617356" tvg-name="|FR| 6PLAY MAX FHD" tvg-logo="https://www.megazap.fr/photo/art/default/67932883-47914559.jpg?v=1665476550" group-title="FR  | FRANCE GENERAL", |FR| 6PLAY MAX FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/617356
-#EXTINF:-1 tvg-id="617325" tvg-name="|FR| 6PLAY FHD" tvg-logo="https://s9.gifyu.com/images/SCXGM.png" group-title="FR  | FRANCE GENERAL", |FR| 6PLAY FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/617325
-#EXTINF:-1 tvg-id="617324" tvg-name="|FR| MY TF1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/MYTF1_MAX.svg/115px-MYTF1_MAX.svg.png?20211126123720" group-title="FR  | FRANCE GENERAL", |FR| MY TF1 MAX FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/617324
-#EXTINF:-1 tvg-id="608625" tvg-name="|FR| STAR ACADEMY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/14/Starc-ac-logo-2025.svg" group-title="FR  | FRANCE GENERAL", |FR| STAR ACADEMY FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/608625
-#EXTINF:-1 tvg-id="608624" tvg-name="|FR| RMC MECANIC FHD" tvg-logo="" group-title="FR | FRANCE RMC EXTRA", |FR| RMC MECANIC FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/608624
-#EXTINF:-1 tvg-id="608623" tvg-name="|FR| RMC STORY HD" tvg-logo="" group-title="FR | FRANCE RMC EXTRA", |FR| RMC STORY HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/608623
-#EXTINF:-1 tvg-id="608622" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="http://s1.edi-static.fr/Img/BREVE/2014/9/244838/154780.jpg" group-title="FR | FRANCE RMC EXTRA", |FR| RMC DECOUVERTE HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/608622
-#EXTINF:-1 tvg-id="608621" tvg-name="|FR| RMC LIFE HD" tvg-logo="" group-title="FR | FRANCE RMC EXTRA", |FR| RMC LIFE HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/608621
-#EXTINF:-1 tvg-id="608620" tvg-name="|FR| STAR ACADEMY" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/14/Starc-ac-logo-2025.svg" group-title="FR  | FRANCE GENERAL", |FR| STAR ACADEMY
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/608620
-#EXTINF:-1 tvg-id="587988" tvg-name="FR| DAZN EVENT SERIE A" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="FR | FRANCE SPORTS", FR| DAZN EVENT SERIE A
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/587988
-#EXTINF:-1 tvg-id="529181" tvg-name="FR: beIN SPORTS 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", FR: beIN SPORTS 1 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529181
-#EXTINF:-1 tvg-id="529182" tvg-name="FR: beINSPORT1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", FR: beINSPORT1 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529182
-#EXTINF:-1 tvg-id="529183" tvg-name="FR: beINSPORT 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", FR: beINSPORT 1 SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529183
-#EXTINF:-1 tvg-id="529184" tvg-name="FR: beINSPORTS 1 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", FR: beINSPORTS 1 HEVC
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529184
-#EXTINF:-1 tvg-id="529180" tvg-name="FR: BEINSPORTS 2 H265" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="FR | FRANCE SPORTS", FR: BEINSPORTS 2 H265
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529180
-#EXTINF:-1 tvg-id="529177" tvg-name="FR: beIN SPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="FR | FRANCE SPORTS", FR: beIN SPORTS 2 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529177
-#EXTINF:-1 tvg-id="529178" tvg-name="FR: beINSPORT2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="FR | FRANCE SPORTS", FR: beINSPORT2 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529178
-#EXTINF:-1 tvg-id="529179" tvg-name="FR: beINSPORT 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="FR | FRANCE SPORTS", FR: beINSPORT 2 SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529179
-#EXTINF:-1 tvg-id="529173" tvg-name="FR: beIN SPORTS 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="FR | FRANCE SPORTS", FR: beIN SPORTS 3 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529173
-#EXTINF:-1 tvg-id="529175" tvg-name="FR: beINSPORT 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="FR | FRANCE SPORTS", FR: beINSPORT 3 SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529175
-#EXTINF:-1 tvg-id="529174" tvg-name="FR: beINSPORT3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="FR | FRANCE SPORTS", FR: beINSPORT3 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529174
-#EXTINF:-1 tvg-id="529176" tvg-name="FR: BEINSPORTS 3 H265" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="FR | FRANCE SPORTS", FR: BEINSPORTS 3 H265
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529176
-#EXTINF:-1 tvg-id="9561" tvg-name="|FR| TF1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="FR  | FRANCE GENERAL", |FR| TF1 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/9561
-#EXTINF:-1 tvg-id="156" tvg-name="|FR| TF1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="FR  | FRANCE GENERAL", |FR| TF1 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/156
-#EXTINF:-1 tvg-id="9561" tvg-name="|FR| TF1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="FR  | FRANCE GENERAL", |FR| TF1 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/9561
-#EXTINF:-1 tvg-id="156" tvg-name="|FR| TF1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="FR  | FRANCE GENERAL", |FR| TF1 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/156
-#EXTINF:-1 tvg-id="1502" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 2 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1502
-#EXTINF:-1 tvg-id="160" tvg-name="|FR| FRANCE 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 2 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/160
-#EXTINF:-1 tvg-id="9562" tvg-name="|FR| M6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="FR  | FRANCE GENERAL", |FR| M6 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/9562
-#EXTINF:-1 tvg-id="235" tvg-name="|FR| M6 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="FR  | FRANCE GENERAL", |FR| M6 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/235
-#EXTINF:-1 tvg-id="58067" tvg-name="|FR| TF1 +4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1_suisse.png" group-title="FR  | FRANCE GENERAL", |FR| TF1 +4
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/58067
-#EXTINF:-1 tvg-id="58064" tvg-name="|FR| FRANCE 2 +4" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 2 +4
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/58064
-#EXTINF:-1 tvg-id="613" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 3 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/613
-#EXTINF:-1 tvg-id="159" tvg-name="|FR| FRANCE 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 3 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/159
-#EXTINF:-1 tvg-id="1504" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 4 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1504
-#EXTINF:-1 tvg-id="158" tvg-name="|FR| FRANCE 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 4 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/158
-#EXTINF:-1 tvg-id="1505" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france5-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 5 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1505
-#EXTINF:-1 tvg-id="157" tvg-name="|FR| FRANCE 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france5-fr.png" group-title="FR  | FRANCE GENERAL", |FR| FRANCE 5 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/157
-#EXTINF:-1 tvg-id="1506" tvg-name="|FR| TMC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tmc_mc.png" group-title="FR  | FRANCE GENERAL", |FR| TMC FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1506
-#EXTINF:-1 tvg-id="109" tvg-name="|FR| TMC HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tmc_mc.png" group-title="FR  | FRANCE GENERAL", |FR| TMC HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/109
-#EXTINF:-1 tvg-id="1509" tvg-name="|FR| 6TER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/6ter.png/150px-6ter.png" group-title="FR  | FRANCE GENERAL", |FR| 6TER FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1509
-#EXTINF:-1 tvg-id="110" tvg-name="|FR| 6TER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/6ter.png/150px-6ter.png" group-title="FR  | FRANCE GENERAL", |FR| 6TER HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/110
-#EXTINF:-1 tvg-id="1513" tvg-name="|FR| ARTE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png" group-title="FR  | FRANCE GENERAL", |FR| ARTE FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1513
-#EXTINF:-1 tvg-id="114" tvg-name="|FR| ARTE HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png" group-title="FR  | FRANCE GENERAL", |FR| ARTE HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/114
-#EXTINF:-1 tvg-id="533332" tvg-name="|FR| MONACO TV HD" tvg-logo="" group-title="FR  | FRANCE GENERAL", |FR| MONACO TV HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/533332
-#EXTINF:-1 tvg-id="529096" tvg-name="FR: CANAL+ FOOT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="FR | FRANCE SPORTS", FR: CANAL+ FOOT FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529096
-#EXTINF:-1 tvg-id="529097" tvg-name="FR: CANAL+ FOOT HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="FR | FRANCE SPORTS", FR: CANAL+ FOOT HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529097
-#EXTINF:-1 tvg-id="249746" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="FR | FRANCE SPORTS", |FR| CANAL+ SPORT 360 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/249746
-#EXTINF:-1 tvg-id="249790" tvg-name="|FR| CANAL+ SPORT 360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="FR | FRANCE SPORTS", |FR| CANAL+ SPORT 360 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/249790
-#EXTINF:-1 tvg-id="54601" tvg-name="|FR| CANAL+ SPORT HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="FR | FRANCE SPORTS", |FR| CANAL+ SPORT HEVC
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/54601
-#EXTINF:-1 tvg-id="512783" tvg-name="|FR| CANAL+ SPORT 360 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="FR | FRANCE SPORTS", |FR| CANAL+ SPORT 360 SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/512783
-#EXTINF:-1 tvg-id="529098" tvg-name="FR: CANAL+ SPORT  FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="FR | FRANCE SPORTS", FR: CANAL+ SPORT  FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529098
-#EXTINF:-1 tvg-id="529099" tvg-name="FR: CANAL+ SPORT  HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="FR | FRANCE SPORTS", FR: CANAL+ SPORT  HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529099
-#EXTINF:-1 tvg-id="529444" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/384x/filters:quality(%7BimageQualityPercentage%7D)/image/65a11195b29d1/uploads/media/Logo_canal_premier_league.png" group-title="FR | FRANCE SPORTS", |FR| CANAL+ PREMIER LEAGUE FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529444
-#EXTINF:-1 tvg-id="529445" tvg-name="|FR| CANAL+ PREMIER LEAGUE HEVC" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/384x/filters:quality(%7BimageQualityPercentage%7D)/image/65a11195b29d1/uploads/media/Logo_canal_premier_league.png" group-title="FR | FRANCE SPORTS", |FR| CANAL+ PREMIER LEAGUE HEVC
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/529445
-#EXTINF:-1 tvg-id="1511" tvg-name="|FR| LEQUIPE 21 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/l_equipe_fr.png" group-title="FR | FRANCE SPORTS", |FR| LEQUIPE 21 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1511
-#EXTINF:-1 tvg-id="70" tvg-name="|FR| LEQUIPE 21 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/l_equipe_fr.png" group-title="FR | FRANCE SPORTS", |FR| LEQUIPE 21 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/70
-#EXTINF:-1 tvg-id="532534" tvg-name="|FR| L'EQUIPE LIVE 1 FHD" tvg-logo="https://focus.telerama.fr/2024/06/03/0/260/3240/2160/1200/800/60/0/6051125_1717420067566-capture-da-ei-cran-2024-06-03-ai-15-05-40-2.png" group-title="FR | FRANCE SPORTS", |FR| L'EQUIPE LIVE 1 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/532534
-#EXTINF:-1 tvg-id="344997" tvg-name="|FR| L EQUIPE LIVE 2 FHD" tvg-logo="https://www.lequipe.fr/_medias/img-photo-jpg/-/1500000001721572/0-350-233-75/13e5b.jpg" group-title="FR | FRANCE SPORTS", |FR| L EQUIPE LIVE 2 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/344997
-#EXTINF:-1 tvg-id="532532" tvg-name="|FR| L'EQUIPE LIVE FOOT 1" tvg-logo="https://i.imgur.com/SOtnFpR.png" group-title="FR | FRANCE SPORTS", |FR| L'EQUIPE LIVE FOOT 1
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/532532
-#EXTINF:-1 tvg-id="532533" tvg-name="|FR| L'EQUIPE LIVE FOOT 2" tvg-logo="https://i.imgur.com/rtaCJYR.png" group-title="FR | FRANCE SPORTS", |FR| L'EQUIPE LIVE FOOT 2
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/532533
-#EXTINF:-1 tvg-id="603578" tvg-name="FR| L’ÉQUIPE LIVE 3 FHD" tvg-logo="https://s13.gifyu.com/images/SCBy7.png" group-title="FR | FRANCE SPORTS", FR| L’ÉQUIPE LIVE 3 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/603578
-#EXTINF:-1 tvg-id="603577" tvg-name="FR| L’ÉQUIPE LIVE 4 FHD" tvg-logo="https://i.imgur.com/yMgCPxG.png" group-title="FR | FRANCE SPORTS", FR| L’ÉQUIPE LIVE 4 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/603577
-#EXTINF:-1 tvg-id="603576" tvg-name="FR| L’ÉQUIPE LIVE 5 FHD" tvg-logo="https://i.imgur.com/yMgCPxG.png" group-title="FR | FRANCE SPORTS", FR| L’ÉQUIPE LIVE 5 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/603576
-#EXTINF:-1 tvg-id="603575" tvg-name="FR| L’ÉQUIPE LIVE 6 FHD" tvg-logo="https://i.imgur.com/yMgCPxG.png" group-title="FR | FRANCE SPORTS", FR| L’ÉQUIPE LIVE 6 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/603575
-#EXTINF:-1 tvg-id="603574" tvg-name="FR| L’ÉQUIPE LIVE 7 FHD" tvg-logo="https://i.imgur.com/yMgCPxG.png" group-title="FR | FRANCE SPORTS", FR| L’ÉQUIPE LIVE 7 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/603574
-#EXTINF:-1 tvg-id="603573" tvg-name="FR| L'EQUIPE AFTER FOOT TV FHD" tvg-logo="" group-title="FR | FRANCE SPORTS", FR| L'EQUIPE AFTER FOOT TV FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/603573
-#EXTINF:-1 tvg-id="245" tvg-name="|FR| INFOSPORT+ FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/infosport-plus-fr.png" group-title="FR | FRANCE SPORTS", |FR| INFOSPORT+ FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/245
-#EXTINF:-1 tvg-id="3756" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/infosport-plus-fr.png" group-title="FR | FRANCE SPORTS", |FR| INFOSPORT+ HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/3756
-#EXTINF:-1 tvg-id="23309" tvg-name="|FR| INFOSPORT+ SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/infosport-plus-fr.png" group-title="FR | FRANCE SPORTS", |FR| INFOSPORT+ SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/23309
-#EXTINF:-1 tvg-id="10531" tvg-name="|FR| beIN SPORTS 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS 1 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/10531
-#EXTINF:-1 tvg-id="11988" tvg-name="|FR| beINSPORT1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beINSPORT1 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/11988
-#EXTINF:-1 tvg-id="92" tvg-name="|FR| beINSPORT 1 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beINSPORT 1 SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/92
-#EXTINF:-1 tvg-id="54614" tvg-name="|FR| beINSPORTS 1 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beINSPORTS 1 HEVC
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/54614
-#EXTINF:-1 tvg-id="10530" tvg-name="|FR| beIN SPORTS 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS 2 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/10530
-#EXTINF:-1 tvg-id="11989" tvg-name="|FR| beINSPORT2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beINSPORT2 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/11989
-#EXTINF:-1 tvg-id="54613" tvg-name="|FR| BEINSPORTS 2 H265" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| BEINSPORTS 2 H265
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/54613
-#EXTINF:-1 tvg-id="93" tvg-name="|FR| beINSPORT 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beINSPORT 2 SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/93
-#EXTINF:-1 tvg-id="10529" tvg-name="|FR| beIN SPORTS 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS 3 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/10529
-#EXTINF:-1 tvg-id="11990" tvg-name="|FR| beINSPORT3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beINSPORT3 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/11990
-#EXTINF:-1 tvg-id="94" tvg-name="|FR| beINSPORT 3 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beINSPORT 3 SD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/94
-#EXTINF:-1 tvg-id="54612" tvg-name="|FR| BEINSPORTS 3 H265" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| BEINSPORTS 3 H265
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/54612
-#EXTINF:-1 tvg-id="9676" tvg-name="|FR| beIN SPORTS MAX 4 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 4 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/9676
-#EXTINF:-1 tvg-id="95" tvg-name="|FR| beIN SPORTS MAX 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 4 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/95
-#EXTINF:-1 tvg-id="8038" tvg-name="|FR| beIN SPORTS MAX 5 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_05_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 5 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/8038
-#EXTINF:-1 tvg-id="1088" tvg-name="|FR| beIN SPORTS MAX 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_05_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 5 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1088
-#EXTINF:-1 tvg-id="15246" tvg-name="|FR| beIN SPORTS MAX 6 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_06_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 6 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/15246
-#EXTINF:-1 tvg-id="1089" tvg-name="|FR| beIN SPORTS MAX 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_06_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 6 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1089
-#EXTINF:-1 tvg-id="8040" tvg-name="|FR| beIN SPORTS MAX 7 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_07_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 7 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/8040
-#EXTINF:-1 tvg-id="1113" tvg-name="|FR| beIN SPORTS MAX 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_07_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 7 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1113
-#EXTINF:-1 tvg-id="8041" tvg-name="|FR| beIN SPORTS MAX 8 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_08_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 8 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/8041
-#EXTINF:-1 tvg-id="1468" tvg-name="|FR| beIN SPORTS MAX 8 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_08_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 8 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1468
-#EXTINF:-1 tvg-id="8042" tvg-name="|FR| beIN SPORTS MAX 9 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_09_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 9 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/8042
-#EXTINF:-1 tvg-id="1469" tvg-name="|FR| beIN SPORTS MAX 9 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_09_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 9 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1469
-#EXTINF:-1 tvg-id="8043" tvg-name="|FR| beIN SPORTS MAX 10 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_10_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 10 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/8043
-#EXTINF:-1 tvg-id="1470" tvg-name="|FR| beIN SPORTS MAX 10 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_10_hd.png" group-title="FR | FRANCE SPORTS", |FR| beIN SPORTS MAX 10 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/1470
-#EXTINF:-1 tvg-id="502552" tvg-name="|FR| RMC TALK SPORT FHD" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000RMCTalkSport.jpg" group-title="FR | FRANCE SPORTS", |FR| RMC TALK SPORT FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/502552
-#EXTINF:-1 tvg-id="502551" tvg-name="|FR| RMC TALK SPORT HD" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000RMCTalkSport.jpg" group-title="FR | FRANCE SPORTS", |FR| RMC TALK SPORT HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/502551
-#EXTINF:-1 tvg-id="54617" tvg-name="|FR| RMC SPORT ACCESS 1 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~504383ed5d72c2ed.png/60x60/quality/80/rmc-sport-access-1.png" group-title="FR | FRANCE SPORTS", |FR| RMC SPORT ACCESS 1 HD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/54617
-#EXTINF:-1 tvg-id="250412" tvg-name="|FR| RMC SPORT UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_RMC_Sport_1_UHD_2018.svg/96px-Logo_RMC_Sport_1_UHD_2018.svg.png" group-title="FR | FRANCE SPORTS", |FR| RMC SPORT UHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/250412
-#EXTINF:-1 tvg-id="10528" tvg-name="|FR| RMC SPORTS.1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="FR | FRANCE SPORTS", |FR| RMC SPORTS.1 FHD
-http://redfoxx.vip:8080/Gabrielvip/yamDg73/10528
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/27b098dd-07ae-4264-9ac2-47da7d720740?height=auto&width=288&croppingPoint=&version=1&type=webp", MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.pngs" group-title="PREMIUM SPORT",BEIN SPORTS 1 AU
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", AD SPORTS PREMIUM 2
+https://raid35.github.io/docs/AD_S.html?id=sps2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="PREMIUM SPORT",Prima Sport 1
+#EXTVLCOPT:http-referrer=https://hulky116.lokix1.cfd/000/
+https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="PREMIUM SPORT",Prima Sport 2
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="PREMIUM SPORT",Prima Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="PREMIUM SPORT",Prima Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
+https://raid35.github.io/docs/AD_S.html?id=sps1http://redfoxx.vip:8080/Gabrielvip/yamDg73/10528
 #EXTINF:-1 tvg-id="11991" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="FR | FRANCE SPORTS", |FR| RMC SPORT 1 HD
 http://redfoxx.vip:8080/Gabrielvip/yamDg73/11991
 #EXTINF:-1 tvg-id="11195" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="FR | FRANCE SPORTS", |FR| RMC SPORT 1 HD

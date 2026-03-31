@@ -16,14 +16,12 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/forever.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/7k5v2n.png" group-title="FRANCE",France Sport Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
 
-# ====================== LION ======================
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/4p8h6t.png" group-title="LION",Lion Playlist
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/lion.m3u
+# ====================== TOD ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/4p8h6t.png" group-title="TOD",TOD Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/8K.m3u
 
 # ====================== FRANCE WAHID 🇫🇷 ======================
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/7k5v2n.png" group-title="FRANCEW",France WAHID Playlist
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/frznce.m3u
 
-# ====================== GGGGGG ======================
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/4p8h6t.png" group-title="GGGGGG",GGGGGG Playlist
-https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/8K.m3u
+# 

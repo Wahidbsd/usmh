@@ -1,35 +1,55 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
-http://arox.cc/live/24335738729223/24335738729223/251868.ts
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 2 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 2 4K
-http://arox.cc/live/24335738729223/24335738729223/251871.ts
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 3 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 3 4K
-http://arox.cc/live/24335738729223/24335738729223/251874.ts
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 4 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 4 4K
-http://arox.cc/live/24335738729223/24335738729223/251877.ts
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 5 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 5 5K
-http://arox.cc/live/24335738729223/24335738729223/251880.ts
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 6 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 6 6K
-http://arox.cc/live/24335738729223/24335738729223/251883.ts
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
- http://prgktgu.mhqtv.xyz/live/CDDFM4ST2V/HHDT3YEYWT/1276553.ts
-#EXTM3U
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
-http://xmrcars.org:8080/bn14k/mono.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
-http://xmrcars.org:8080/bn24k/mono.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
-http://xmrcars.org:8080/bn34k/mono.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
-http://line.linehunt.org/live/fc75ace654/979f15af9706/1330430.ts
-#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
-http://line.linehunt.org/live/fc75ace654/979f15af9706/1330429.ts
-#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
-http://line.linehunt.org/live/fc75ace654/979f15af9706/1330428.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
-http://line.linehunt.org/live/fc75ace654/979f15af9706/1330427.ts
-#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
-http://line.linehunt.org/live/fc75ace654/979f15af9706/1330426.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BBEIN 9
-http://line.linehunt.org/live/fc75ace654/979f15af9706/1330425.ts
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
+# ================= ALWAN SPORTS (EPG مربوط) =================
+
+#EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="AR - ALWAN SPORT 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
+http://arox.cc/live/24335738729223/24335738729223/251868.ts
+
+#EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="AR - ALWAN SPORT 2 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 2 4K
+http://arox.cc/live/24335738729223/24335738729223/251871.ts
+
+#EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="AR - ALWAN SPORT 3 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 3 4K
+http://arox.cc/live/24335738729223/24335738729223/251874.ts
+
+#EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="AR - ALWAN SPORT 4 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 4 4K
+http://arox.cc/live/24335738729223/24335738729223/251877.ts
+
+#EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="AR - ALWAN SPORT 5 5K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 5 5K
+http://arox.cc/live/24335738729223/24335738729223/251880.ts
+
+#EXTINF:-1 tvg-id="beinsports6.ar" tvg-name="AR - ALWAN SPORT 6 6K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 6 6K
+http://arox.cc/live/24335738729223/24335738729223/251883.ts
+
+# 🔁 تكرار مربوط كذلك
+#EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="AR - ALWAN SPORT 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
+http://prgktgu.mhqtv.xyz/live/CDDFM4ST2V/HHDT3YEYWT/1276553.ts
+
+
+# ================= BEIN SPORTS =================
+
+#EXTINF:-1 tvg-id="beinsports1.ar" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
+http://xmrcars.org:8080/bn14k/mono.m3u8
+
+#EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 2
+http://xmrcars.org:8080/bn24k/mono.m3u8
+
+#EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 3
+http://xmrcars.org:8080/bn34k/mono.m3u8
+
+#EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 4
+http://line.linehunt.org/live/fc75ace654/979f15af9706/1330430.ts
+
+#EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 5
+http://line.linehunt.org/live/fc75ace654/979f15af9706/1330429.ts
+
+#EXTINF:-1 tvg-id="beinsports6.ar" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 6
+http://line.linehunt.org/live/fc75ace654/979f15af9706/1330428.ts
+
+#EXTINF:-1 tvg-id="beinsports7.ar" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 7
+http://line.linehunt.org/live/fc75ace654/979f15af9706/1330427.ts
+
+#EXTINF:-1 tvg-id="beinsports8.ar" tvg-name="beIN SPORTS 8 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 8
+http://line.linehunt.org/live/fc75ace654/979f15af9706/1330426.ts
+
+#EXTINF:-1 tvg-id="beinsports9.ar" tvg-name="beIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN SPORTS 9
+http://line.linehunt.org/live/fc75ace654/979f15af9706/1330425.ts

@@ -17,4 +17,4 @@ https://raw.githubusercontent.com/MohamedElashri/filters/main/rules/adguard.txt
 http://live.lynxiptv.xyz/get.php?username=211149257319&password=cT7IPSZ8rC&type=m3u_plus&output=ts
 
 json.   http://redfoxx.vip:8080/player_api.php?username=Gabrielvip&password=yamDg73&action=get_live_streams
-https://m3umaker.com/view/528/morad-soprts
+https://m3uedit.com/

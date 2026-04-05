@@ -1,0 +1,111 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/arabic.xml"
+
+====================== 🇩🇿 ALGERIA ======================
+
+#EXTINF:-1 tvg-id="ENTV.dz" tvg-name="Algeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="🇩🇿 ALGERIA",Algeria
+https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
+
+====================== 🇹🇳 TUNISIA ======================
+
+#EXTINF:-1 tvg-id="Wataniya1.tn" tvg-name="Tunisia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" group-title="🇹🇳 TUNISIA",Tunisia
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/tunisia.m3u
+
+====================== 🇪🇬 EGYPT ======================
+
+#EXTINF:-1 tvg-id="ONTV.eg" tvg-name="Egypt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" group-title="🇪🇬 EGYPT",Egypt
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/EGYPT.m3u
+
+====================== 🎬 MOVIES ======================
+
+#EXTINF:-1 tvg-id="Netflix.us" tvg-name="Netflix & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg" group-title="🎬 MOVIES",Netflix & HBO
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFLIX_ACTION.m3u
+
+====================== 📺 MBC ======================
+
+#EXTINF:-1 tvg-id="MBC1.sa" tvg-name="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/MBC_Logo.svg" group-title="📺 MBC",MBC
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
+
+====================== 🇵🇸 PALESTINE ======================
+
+#EXTINF:-1 tvg-id="Palestine.ps" tvg-name="Palestine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" group-title="🇵🇸 PALESTINE",Palestine
+https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
+
+====================== ⭐ OSTORA ======================
+
+#EXTINF:-1 tvg-id="Ostora.tv" tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/TV_icon.svg" group-title="⭐ OSTORA",Ostora
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
+
+====================== 🖥️ 8K ======================
+
+#EXTINF:-1 tvg-id="UHD.8K" tvg-name="8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Ultra_HD_logo.svg" group-title="🖥️ 8K",8K
+https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
+
+====================== 📺 ALWAN ======================
+
+#EXTINF:-1 tvg-id="Alwan.sa" tvg-name="ALWAN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Sport_icon.png" group-title="📺 ALWAN",ALWAN SPORT
+https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
+
+====================== ⚽ SPORTS ======================
+
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="LX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Bein_sports_logo.svg" group-title="⚽ SPORTS",LX Sports
+https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
+
+====================== 🔥 FOREVER ======================
+
+#EXTINF:-1 tvg-id="Forever.tv" tvg-name="Forever" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/TV_icon.svg" group-title="🔥 FOREVER",Forever
+https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
+
+====================== 📱 YACINE TV ======================
+
+#EXTINF:-1 tvg-id="Yacine.app" tvg-name="Yacine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Android_logo_2019.svg" group-title="📱 YACINE TV",Yacine
+https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
+
+====================== 🇫🇷 FRANCE ======================
+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="France Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" group-title="🇫🇷 FRANCE",France Sports
+https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
+
+====================== 🏆 SSC ======================
+
+#EXTINF:-1 tvg-id="SSC.sa" tvg-name="SSC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Saudi_Sports_Company.png" group-title="🏆 SSC",SSC
+https://raw.githubusercontent.com/raid35/channel-links/main/SSC.m3u
+
+====================== 📡 BEIN ======================
+
+#EXTINF:-1 tvg-id="beIN.qa" tvg-name="Bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Bein_sports_logo.svg" group-title="📡 BEIN",Bein
+https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
+
+====================== 🎞️ OSN ======================
+
+#EXTINF:-1 tvg-id="OSN.ae" tvg-name="OSN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/OSN_logo.svg" group-title="🎞️ OSN",OSN
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
+
+====================== 🇫🇷 NOVA ======================
+
+#EXTINF:-1 tvg-id="Nova.fr" tvg-name="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" group-title="🇫🇷 NOVA",Nova
+https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
+
+====================== 🎥 CANAL+ ======================
+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal%2B_logo.svg" group-title="🎥 CANAL+",Canal+
+https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
+
+====================== 🇩🇪 GERMANY ======================
+
+#EXTINF:-1 tvg-id="Sky.de" tvg-name="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" group-title="🇩🇪 GERMANY",Germany
+https://raw.githubusercontent.com/raid35/channel-links/main/gremani.m3u
+
+====================== 🇪🇸 DAZN ======================
+
+#EXTINF:-1 tvg-id="DAZN.es" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/DAZN_Logo.svg" group-title="🇪🇸 DAZN",DAZN
+https://raw.githubusercontent.com/raid35/channel-links/main/dazn-es.m3u
+
+====================== 🇵🇹 PORTUGAL ======================
+
+#EXTINF:-1 tvg-id="SportTV.pt" tvg-name="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" group-title="🇵🇹 PORTUGAL",Portugal
+https://raw.githubusercontent.com/raid35/channel-links/main/sport-tv.m3u
+
+====================== 🇵🇱 POLAND ======================
+
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" group-title="🇵🇱 POLAND",Poland
+https://github.com/raid35/channel-links/raw/main/polosh.m3u

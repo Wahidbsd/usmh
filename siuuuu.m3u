@@ -1,0 +1,45 @@
+#EXTM3U
+
+# ====================== LX ======================
+#EXTINF:-1 tvg-name="LX Playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="LX",LX Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
+
+# ====================== ALWAN ======================
+#EXTINF:-1 tvg-name="Alwan Playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="ALWAN",Alwan Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
+
+# ====================== FOREVER ======================
+#EXTINF:-1 tvg-name="Forever Playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="FOREVER",Forever Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/forever.m3u
+
+# ====================== FRANCE ======================
+#EXTINF:-1 tvg-name="France Sport Playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="FRANCE",France Sport Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
+
+# ====================== TOD 8K ======================
+#EXTINF:-1 tvg-name="TOD 8K Playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="TOD",TOD 8K Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/8K.m3u
+
+# ====================== FRANCE WAHID ======================
+#EXTINF:-1 tvg-name="France Wahid Playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="FRANCE WAHID",France Wahid Playlist
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/frznce.m3u
+
+# ====================== ALGERIA ======================
+#EXTINF:-1 tvg-name="ALGERIA 999" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="ALG",ALGERIA 999
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m3u
+
+# ====================== BACKUP FR ======================
+#EXTINF:-1 tvg-name="Backup France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="BACKUP FR",Backup France
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/fc75ace654_PTS5jb.m3u
+
+# ====================== BACKUP SPORTS ======================
+#EXTINF:-1 tvg-name="tod morad Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="SPORTS BACKUP",tod morad Sports
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/thqmina.m3u
+
+# ====================== MY HD ======================
+#EXTINF:-1 tvg-name="MY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="MY HD",MY HD
+https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
+
+# ====================== BEIN MOVIES ======================
+#EXTINF:-1 tvg-name="BEIN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="BEIN MOVIES",BEIN MOVIES
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u

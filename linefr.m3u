@@ -1,0 +1,745 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="289603" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" group-title="FR| SPORTS", |FR| CANAL+ SPORT SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/289603
+#EXTINF:-1 tvg-id="439764" tvg-name="|FR| CANAL+ 360 HD" tvg-logo="http://logo.ottcst.info/CANALPLUS360.png" group-title="FR| SPORTS", |FR| CANAL+ 360 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/439764
+#EXTINF:-1 tvg-id="12791" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" group-title="FR| SPORTS", |FR| CANAL+ SPORT HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12791
+#EXTINF:-1 tvg-id="138279" tvg-name="|FR| CANAL+ PREMIER LEAGUE HD" tvg-logo="http://logo.ottcst.info/CANALPREMIERLEAGUEHD.png" group-title="FR| SPORTS", |FR| CANAL+ PREMIER LEAGUE HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/138279
+#EXTINF:-1 tvg-id="439766" tvg-name="|FR| CANAL+ FOOT HD" tvg-logo="http://logo.ottcst.info/CANALPLUSFOOT.png" group-title="FR| SPORTS", |FR| CANAL+ FOOT HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/439766
+#EXTINF:-1 tvg-id="1124343" tvg-name="|FR| CANAL+LIVE 1" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124343
+#EXTINF:-1 tvg-id="1124342" tvg-name="|FR| CANAL+LIVE 2" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 2
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124342
+#EXTINF:-1 tvg-id="1124341" tvg-name="|FR| CANAL+LIVE 3" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 3
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124341
+#EXTINF:-1 tvg-id="1124340" tvg-name="|FR| CANAL+LIVE 4" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 4
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124340
+#EXTINF:-1 tvg-id="1124339" tvg-name="|FR| CANAL+LIVE 5" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 5
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124339
+#EXTINF:-1 tvg-id="1124338" tvg-name="|FR| CANAL+LIVE 6" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 6
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124338
+#EXTINF:-1 tvg-id="1124337" tvg-name="|FR| CANAL+LIVE 7" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 7
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124337
+#EXTINF:-1 tvg-id="1124336" tvg-name="|FR| CANAL+LIVE 8" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 8
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124336
+#EXTINF:-1 tvg-id="1124335" tvg-name="|FR| CANAL+LIVE 9" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 9
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124335
+#EXTINF:-1 tvg-id="1124334" tvg-name="|FR| CANAL+LIVE 10" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 10
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124334
+#EXTINF:-1 tvg-id="1124333" tvg-name="|FR| CANAL+LIVE 11" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 11
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124333
+#EXTINF:-1 tvg-id="1124332" tvg-name="|FR| CANAL+LIVE 12" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 12
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124332
+#EXTINF:-1 tvg-id="1124331" tvg-name="|FR| CANAL+LIVE 13" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 13
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124331
+#EXTINF:-1 tvg-id="1124330" tvg-name="|FR| CANAL+LIVE 14" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 14
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124330
+#EXTINF:-1 tvg-id="1124329" tvg-name="|FR| CANAL+LIVE 15" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 15
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124329
+#EXTINF:-1 tvg-id="1124328" tvg-name="|FR| CANAL+LIVE 16" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 16
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124328
+#EXTINF:-1 tvg-id="1124327" tvg-name="|FR| CANAL+LIVE 17" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 17
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124327
+#EXTINF:-1 tvg-id="1124326" tvg-name="|FR| CANAL+LIVE 18" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 18
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124326
+#EXTINF:-1 tvg-id="1124325" tvg-name="|FR| CANAL+LIVE 19" tvg-logo="" group-title="FR| SPORTS", |FR| CANAL+LIVE 19
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1124325
+#EXTINF:-1 tvg-id="1090260" tvg-name="|FR| LEQUIPE LIVE 1 HD" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090260
+#EXTINF:-1 tvg-id="1090258" tvg-name="|FR| LEQUIPE LIVE 2 HD" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090258
+#EXTINF:-1 tvg-id="1090256" tvg-name="|FR| LEQUIPE LIVE 3 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 3 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090256
+#EXTINF:-1 tvg-id="1090254" tvg-name="|FR| LEQUIPE LIVE 4 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 4 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090254
+#EXTINF:-1 tvg-id="1090252" tvg-name="|FR| LEQUIPE LIVE 5 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 5 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090252
+#EXTINF:-1 tvg-id="1090250" tvg-name="|FR| LEQUIPE LIVE 6 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 6 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090250
+#EXTINF:-1 tvg-id="1090248" tvg-name="|FR| LEQUIPE LIVE 7 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 7 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090248
+#EXTINF:-1 tvg-id="1090246" tvg-name="|FR| LEQUIPE LIVE 8 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 8 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090246
+#EXTINF:-1 tvg-id="1090244" tvg-name="|FR| LEQUIPE LIVE 9 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 9 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090244
+#EXTINF:-1 tvg-id="1090242" tvg-name="|FR| LEQUIPE LIVE 10 HD (EVENT)" tvg-logo="" group-title="FR| SPORTS", |FR| LEQUIPE LIVE 10 HD (EVENT)
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1090242
+#EXTINF:-1 tvg-id="12605" tvg-name="|FR| BEIN SPORT 1 HD" tvg-logo="http://logo.ottcst.info/BEINSPORT1HD.png" group-title="FR| SPORTS", |FR| BEIN SPORT 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12605
+#EXTINF:-1 tvg-id="12604" tvg-name="|FR| BEIN SPORT 2 HD" tvg-logo="http://logo.ottcst.info/BEINSPORT2HD.png" group-title="FR| SPORTS", |FR| BEIN SPORT 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12604
+#EXTINF:-1 tvg-id="12603" tvg-name="|FR| BEIN SPORT 3 HD" tvg-logo="http://logo.ottcst.info/BEINSPORT3HD.png" group-title="FR| SPORTS", |FR| BEIN SPORT 3 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12603
+#EXTINF:-1 tvg-id="12602" tvg-name="|FR| BEIN SPORT MAX 4 HD" tvg-logo="http://logo.ottcst.info/BEINMAX.png" group-title="FR| SPORTS", |FR| BEIN SPORT MAX 4 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12602
+#EXTINF:-1 tvg-id="12601" tvg-name="|FR| BEIN SPORT MAX 5 HD" tvg-logo="http://logo.ottcst.info/BEINMAX.png" group-title="FR| SPORTS", |FR| BEIN SPORT MAX 5 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12601
+#EXTINF:-1 tvg-id="12600" tvg-name="|FR| BEIN SPORT MAX 6 HD" tvg-logo="http://logo.ottcst.info/BEINSPORTMAX6.png" group-title="FR| SPORTS", |FR| BEIN SPORT MAX 6 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12600
+#EXTINF:-1 tvg-id="12599" tvg-name="|FR| BEIN SPORT MAX 7 HD" tvg-logo="http://logo.ottcst.info/BEINSPORTMAX7.png" group-title="FR| SPORTS", |FR| BEIN SPORT MAX 7 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12599
+#EXTINF:-1 tvg-id="12598" tvg-name="|FR| BEIN SPORT MAX 8 HD" tvg-logo="http://logo.ottcst.info/BEINSPORTMAX8.png" group-title="FR| SPORTS", |FR| BEIN SPORT MAX 8 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12598
+#EXTINF:-1 tvg-id="12597" tvg-name="|FR| BEIN SPORT MAX 9 HD" tvg-logo="http://logo.ottcst.info/BEINSPORTMAX9.png" group-title="FR| SPORTS", |FR| BEIN SPORT MAX 9 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12597
+#EXTINF:-1 tvg-id="12596" tvg-name="|FR| BEIN SPORT MAX 10 HD" tvg-logo="http://logo.ottcst.info/BEINSPORTMAX10.png" group-title="FR| SPORTS", |FR| BEIN SPORT MAX 10 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12596
+#EXTINF:-1 tvg-id="12595" tvg-name="|FR| EUROSPORT 1 HD" tvg-logo="http://logo.ottcst.info/EUROSPORT1HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12595
+#EXTINF:-1 tvg-id="12594" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://logo.ottcst.info/EUROSPORT1HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12594
+#EXTINF:-1 tvg-id="139053" tvg-name="|FR| EUROSPORT 360 1 HD" tvg-logo="http://logo.ottcst.info/EUROSPORT3601HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 360 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/139053
+#EXTINF:-1 tvg-id="139052" tvg-name="|FR| EUROSPORT 360 2 HD" tvg-logo="http://logo.ottcst.info/EUROSPORT3602HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 360 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/139052
+#EXTINF:-1 tvg-id="139051" tvg-name="|FR| EUROSPORT 360 3 HD" tvg-logo="http://logo.ottcst.info/EUROSPORT3603HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 360 3 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/139051
+#EXTINF:-1 tvg-id="139050" tvg-name="|FR| EUROSPORT 360 4 HD" tvg-logo="http://logo.ottcst.info/EUROSPORT3604HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 360 4 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/139050
+#EXTINF:-1 tvg-id="139049" tvg-name="|FR| EUROSPORT 360 5 HD" tvg-logo="http://logo.ottcst.info/EUROSPORT3605HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 360 5 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/139049
+#EXTINF:-1 tvg-id="12592" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="http://logo.ottcst.info/RMCSPORT1.png" group-title="FR| SPORTS", |FR| RMC SPORT 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12592
+#EXTINF:-1 tvg-id="12591" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="http://logo.ottcst.info/RMCSPORT2HD.png" group-title="FR| SPORTS", |FR| RMC SPORT 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12591
+#EXTINF:-1 tvg-id="146389" tvg-name="|FR| RMC SPORT LIVE 3 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE3HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 3 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/146389
+#EXTINF:-1 tvg-id="146388" tvg-name="|FR| RMC SPORT LIVE 4 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE4HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 4 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/146388
+#EXTINF:-1 tvg-id="12588" tvg-name="|FR| RMC SPORT LIVE 5 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE5HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 5 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12588
+#EXTINF:-1 tvg-id="12587" tvg-name="|FR| RMC SPORT LIVE 6 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE6HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 6 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12587
+#EXTINF:-1 tvg-id="12586" tvg-name="|FR| RMC SPORT LIVE 7 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE7HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 7 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12586
+#EXTINF:-1 tvg-id="12585" tvg-name="|FR| RMC SPORT LIVE 8 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE8HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 8 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12585
+#EXTINF:-1 tvg-id="12584" tvg-name="|FR| RMC SPORT LIVE 9 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE9HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 9 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12584
+#EXTINF:-1 tvg-id="12583" tvg-name="|FR| RMC SPORT LIVE 10 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE10HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 10 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12583
+#EXTINF:-1 tvg-id="12582" tvg-name="|FR| RMC SPORT LIVE 11 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE11HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 11 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12582
+#EXTINF:-1 tvg-id="12581" tvg-name="|FR| RMC SPORT LIVE 12 HD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE12HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 12 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12581
+#EXTINF:-1 tvg-id="171712" tvg-name="|FR| TRACE SPORT STARS HD" tvg-logo="http://logo.ottcst.info/TRACESPORTSTARSHD.png" group-title="FR| SPORTS", |FR| TRACE SPORT STARS HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/171712
+#EXTINF:-1 tvg-id="67605" tvg-name="|FR| OLTV HD" tvg-logo="http://logo.ottcst.info/OLTV.png" group-title="FR| SPORTS", |FR| OLTV HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/67605
+#EXTINF:-1 tvg-id="12570" tvg-name="|FR| INFO SPORT HD" tvg-logo="http://logo.ottcst.info/INFOSPORTHD.png" group-title="FR| SPORTS", |FR| INFO SPORT HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12570
+#EXTINF:-1 tvg-id="12569" tvg-name="|FR| EQUIDIA HD" tvg-logo="http://logo.ottcst.info/EQUIDIALIVEHD.png" group-title="FR| SPORTS", |FR| EQUIDIA HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12569
+#EXTINF:-1 tvg-id="12568" tvg-name="|FR| GOLF+ HD" tvg-logo="http://logo.ottcst.info/GOLFHD.png" group-title="FR| SPORTS", |FR| GOLF+ HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12568
+#EXTINF:-1 tvg-id="12566" tvg-name="|FR| AUTO MOTO HD" tvg-logo="http://logo.ottcst.info/AUTOMOTOHD.png" group-title="FR| SPORTS", |FR| AUTO MOTO HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12566
+#EXTINF:-1 tvg-id="439769" tvg-name="|FR| CANAL+ 360 SD" tvg-logo="http://logo.ottcst.info/CANALPLUS360.png" group-title="FR| SPORTS", |FR| CANAL+ 360 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/439769
+#EXTINF:-1 tvg-id="289603" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" group-title="FR| SPORTS", |FR| CANAL+ SPORT SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/289603
+#EXTINF:-1 tvg-id="138280" tvg-name="|FR| CANAL+ PREMIER LEAGUE SD" tvg-logo="http://logo.ottcst.info/CANALPREMIERLEAGUEHD.png" group-title="FR| SPORTS", |FR| CANAL+ PREMIER LEAGUE SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/138280
+#EXTINF:-1 tvg-id="12528" tvg-name="|FR| BEIN SPORT 1 SD" tvg-logo="http://logo.ottcst.info/BEINSPORT1HD.png" group-title="FR| SPORTS", |FR| BEIN SPORT 1 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12528
+#EXTINF:-1 tvg-id="12527" tvg-name="|FR| BEIN SPORT 2 SD" tvg-logo="http://logo.ottcst.info/BEINSPORT2HD.png" group-title="FR| SPORTS", |FR| BEIN SPORT 2 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12527
+#EXTINF:-1 tvg-id="12526" tvg-name="|FR| BEIN SPORT 3 SD" tvg-logo="http://logo.ottcst.info/BEINSPORT3HD.png" group-title="FR| SPORTS", |FR| BEIN SPORT 3 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12526
+#EXTINF:-1 tvg-id="12525" tvg-name="|FR| EUROSPORT 1 SD" tvg-logo="http://logo.ottcst.info/EUROSPORT1HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 1 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12525
+#EXTINF:-1 tvg-id="12524" tvg-name="|FR| EUROSPORT 2 SD" tvg-logo="http://logo.ottcst.info/EUROSPORT1HD.png" group-title="FR| SPORTS", |FR| EUROSPORT 2 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12524
+#EXTINF:-1 tvg-id="12522" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://logo.ottcst.info/RMCSPORT1.png" group-title="FR| SPORTS", |FR| RMC SPORT 1 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12522
+#EXTINF:-1 tvg-id="146393" tvg-name="|FR| RMC SPORT LIVE 3 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE3HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 3 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/146393
+#EXTINF:-1 tvg-id="146392" tvg-name="|FR| RMC SPORT LIVE 4 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE4HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 4 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/146392
+#EXTINF:-1 tvg-id="12521" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://logo.ottcst.info/RMCSPORT2HD.png" group-title="FR| SPORTS", |FR| RMC SPORT 2 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12521
+#EXTINF:-1 tvg-id="12518" tvg-name="|FR| RMC SPORT LIVE5 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE5HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE5 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12518
+#EXTINF:-1 tvg-id="12517" tvg-name="|FR| RMC SPORT LIVE 6 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE6HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 6 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12517
+#EXTINF:-1 tvg-id="12516" tvg-name="|FR| RMC SPORT LIVE 7 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE7HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 7 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12516
+#EXTINF:-1 tvg-id="12515" tvg-name="|FR| RMC SPORT LIVE 8 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE8HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 8 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12515
+#EXTINF:-1 tvg-id="12514" tvg-name="|FR| RMC SPORT LIVE 9 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE9HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 9 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12514
+#EXTINF:-1 tvg-id="12513" tvg-name="|FR| RMC SPORT LIVE 10 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE10HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 10 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12513
+#EXTINF:-1 tvg-id="12512" tvg-name="|FR| RMC SPORT LIVE 11 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE11HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 11 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12512
+#EXTINF:-1 tvg-id="12511" tvg-name="|FR| RMC SPORT LIVE 12 SD" tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE12HD.png" group-title="FR| SPORTS", |FR| RMC SPORT LIVE 12 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12511
+#EXTINF:-1 tvg-id="12499" tvg-name="|FR| INFO SPORT SD" tvg-logo="http://logo.ottcst.info/INFOSPORTHD.png" group-title="FR| SPORTS", |FR| INFO SPORT SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12499
+#EXTINF:-1 tvg-id="12498" tvg-name="|FR| EQUIDIA SD" tvg-logo="http://logo.ottcst.info/EQUIDIALIVEHD.png" group-title="FR| SPORTS", |FR| EQUIDIA SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12498
+#EXTINF:-1 tvg-id="12497" tvg-name="|FR| GOLF SD" tvg-logo="http://logo.ottcst.info/GOLFHD.png" group-title="FR| SPORTS", |FR| GOLF SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12497
+#EXTINF:-1 tvg-id="12495" tvg-name="|FR| AUTO MOTO SD" tvg-logo="http://logo.ottcst.info/AUTOMOTOHD.png" group-title="FR| SPORTS", |FR| AUTO MOTO SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12495
+#EXTINF:-1 tvg-id="439767" tvg-name="|FR| CANAL+ FOOT SD" tvg-logo="http://logo.ottcst.info/CANALPLUSFOOT.png" group-title="FR| SPORTS", |FR| CANAL+ FOOT SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/439767
+#EXTINF:-1 tvg-id="13103" tvg-name="|FR| TOUTE L HD" tvg-logo="http://logo.ottcst.info/TOUTE%20LHISTOIREHD.png" group-title="FR| LA NATURE", |FR| TOUTE L HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13103
+#EXTINF:-1 tvg-id="13102" tvg-name="|FR| PLANETE+ HD" tvg-logo="http://logo.ottcst.info/PLANETEHD.png" group-title="FR| LA NATURE", |FR| PLANETE+ HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13102
+#EXTINF:-1 tvg-id="13101" tvg-name="|FR| PLANET A&E HD" tvg-logo="http://logo.ottcst.info/PLANETAEHD.png" group-title="FR| LA NATURE", |FR| PLANET A&E HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13101
+#EXTINF:-1 tvg-id="13100" tvg-name="|FR| PLANETE+ CI HD" tvg-logo="http://logo.ottcst.info/PLANETECIHD.png" group-title="FR| LA NATURE", |FR| PLANETE+ CI HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13100
+#EXTINF:-1 tvg-id="13099" tvg-name="|FR| DISCOVERY HD" tvg-logo="http://logo.ottcst.info/DISCOVERY.png" group-title="FR| LA NATURE", |FR| DISCOVERY HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13099
+#EXTINF:-1 tvg-id="13096" tvg-name="|FR| DISCOVERY ID HD" tvg-logo="http://logo.ottcst.info/DISCOVERYIDHD.png" group-title="FR| LA NATURE", |FR| DISCOVERY ID HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13096
+#EXTINF:-1 tvg-id="13095" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="http://logo.ottcst.info/INVESTIGATIONDISCOVERYID.png" group-title="FR| LA NATURE", |FR| DISCOVERY INVESTIGATION HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13095
+#EXTINF:-1 tvg-id="13094" tvg-name="|FR| NGC HD" tvg-logo="http://logo.ottcst.info/NGCHD.png" group-title="FR| LA NATURE", |FR| NGC HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13094
+#EXTINF:-1 tvg-id="13093" tvg-name="|FR| NGC WILD HD" tvg-logo="http://logo.ottcst.info/NATGEOWILD.png" group-title="FR| LA NATURE", |FR| NGC WILD HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13093
+#EXTINF:-1 tvg-id="13091" tvg-name="|FR| USHUAIA HD" tvg-logo="http://logo.ottcst.info/USHUAIAHD.png" group-title="FR| LA NATURE", |FR| USHUAIA HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13091
+#EXTINF:-1 tvg-id="13090" tvg-name="|FR| HISTOIRE HD" tvg-logo="http://logo.ottcst.info/HISTORY.png" group-title="FR| LA NATURE", |FR| HISTOIRE HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13090
+#EXTINF:-1 tvg-id="13089" tvg-name="|FR| ANIMAUX HD" tvg-logo="http://logo.ottcst.info/ANIMAUXHD.png" group-title="FR| LA NATURE", |FR| ANIMAUX HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13089
+#EXTINF:-1 tvg-id="13088" tvg-name="|FR| TREK HD" tvg-logo="http://logo.ottcst.info/TREKHD.png" group-title="FR| LA NATURE", |FR| TREK HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13088
+#EXTINF:-1 tvg-id="13087" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="http://logo.ottcst.info/CHASSEETPECHEHD.png" group-title="FR| LA NATURE", |FR| CHASSE ET PECHE HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13087
+#EXTINF:-1 tvg-id="13086" tvg-name="|FR| SCIENCE ET VIE HD" tvg-logo="http://logo.ottcst.info/SCIENCEETVIEHD.png" group-title="FR| LA NATURE", |FR| SCIENCE ET VIE HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13086
+#EXTINF:-1 tvg-id="13085" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="http://logo.ottcst.info/RMCDECOUVERTEHD.png" group-title="FR| LA NATURE", |FR| RMC DECOUVERTE HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13085
+#EXTINF:-1 tvg-id="13084" tvg-name="|FR| SEASONS HD" tvg-logo="http://logo.ottcst.info/SEASONSHD.png" group-title="FR| LA NATURE", |FR| SEASONS HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13084
+#EXTINF:-1 tvg-id="13083" tvg-name="|FR| GULLI HD" tvg-logo="http://logo.ottcst.info/GULLIHD.png" group-title="FR| LA NATURE", |FR| GULLI HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13083
+#EXTINF:-1 tvg-id="13082" tvg-name="|FR| TCM CINEMA HD" tvg-logo="http://logo.ottcst.info/TCMCINEMAHD.png" group-title="FR| LA NATURE", |FR| TCM CINEMA HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13082
+#EXTINF:-1 tvg-id="13081" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="http://logo.ottcst.info/CRIMEDISTRICTHD.png" group-title="FR| LA NATURE", |FR| CRIME DISTRICT HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13081
+#EXTINF:-1 tvg-id="179313" tvg-name="|FR| NAUTICAL CHANNEL HD" tvg-logo="http://logo.ottcst.info/NAUTICALCHANNEL.png" group-title="FR| LA NATURE", |FR| NAUTICAL CHANNEL HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/179313
+#EXTINF:-1 tvg-id="1161478" tvg-name="|FR| MY ZEN NATURE SD" tvg-logo="" group-title="FR| LA NATURE", |FR| MY ZEN NATURE SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1161478
+#EXTINF:-1 tvg-id="1161477" tvg-name="|FR| THE MUSEUM CHANNEL SD" tvg-logo="" group-title="FR| LA NATURE", |FR| THE MUSEUM CHANNEL SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1161477
+#EXTINF:-1 tvg-id="13055" tvg-name="|FR| TOUTE L SD" tvg-logo="http://logo.ottcst.info/TOUTE%20LHISTOIREHD.png" group-title="FR| LA NATURE", |FR| TOUTE L SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13055
+#EXTINF:-1 tvg-id="13054" tvg-name="|FR| PLANETE+ SD" tvg-logo="http://logo.ottcst.info/PLANETEHD.png" group-title="FR| LA NATURE", |FR| PLANETE+ SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13054
+#EXTINF:-1 tvg-id="13053" tvg-name="|FR| PLANETE  A&E SD" tvg-logo="http://logo.ottcst.info/PLANETAEHD.png" group-title="FR| LA NATURE", |FR| PLANETE  A&E SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13053
+#EXTINF:-1 tvg-id="13052" tvg-name="|FR| PLANETE+ CI SD" tvg-logo="http://logo.ottcst.info/PLANETECIHD.png" group-title="FR| LA NATURE", |FR| PLANETE+ CI SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13052
+#EXTINF:-1 tvg-id="13051" tvg-name="|FR| DISCOVERY SD" tvg-logo="http://logo.ottcst.info/DISCOVERY.png" group-title="FR| LA NATURE", |FR| DISCOVERY SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13051
+#EXTINF:-1 tvg-id="13048" tvg-name="|FR| DISCOVERY ID SD" tvg-logo="http://logo.ottcst.info/DISCOVERYIDHD.png" group-title="FR| LA NATURE", |FR| DISCOVERY ID SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13048
+#EXTINF:-1 tvg-id="13047" tvg-name="|FR| DISCOVERY INVESTIGATION SD" tvg-logo="http://logo.ottcst.info/INVESTIGATIONDISCOVERYID.png" group-title="FR| LA NATURE", |FR| DISCOVERY INVESTIGATION SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13047
+#EXTINF:-1 tvg-id="179307" tvg-name="|FR| NAUTICAL CHANNEL SD" tvg-logo="http://logo.ottcst.info/NAUTICALCHANNEL.png" group-title="FR| LA NATURE", |FR| NAUTICAL CHANNEL SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/179307
+#EXTINF:-1 tvg-id="13046" tvg-name="|FR| NGC SD" tvg-logo="http://logo.ottcst.info/NGCHD.png" group-title="FR| LA NATURE", |FR| NGC SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13046
+#EXTINF:-1 tvg-id="13045" tvg-name="|FR| NGC WILD SD" tvg-logo="http://logo.ottcst.info/NATGEOWILD.png" group-title="FR| LA NATURE", |FR| NGC WILD SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13045
+#EXTINF:-1 tvg-id="13043" tvg-name="|FR| USHUAIA SD" tvg-logo="http://logo.ottcst.info/USHUAIAHD.png" group-title="FR| LA NATURE", |FR| USHUAIA SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13043
+#EXTINF:-1 tvg-id="13042" tvg-name="|FR| HISTOIRE SD" tvg-logo="http://logo.ottcst.info/HISTORY.png" group-title="FR| LA NATURE", |FR| HISTOIRE SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13042
+#EXTINF:-1 tvg-id="13041" tvg-name="|FR| ANIMAUX SD" tvg-logo="http://logo.ottcst.info/ANIMAUXHD.png" group-title="FR| LA NATURE", |FR| ANIMAUX SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13041
+#EXTINF:-1 tvg-id="13040" tvg-name="|FR| TREK SD" tvg-logo="http://logo.ottcst.info/TREKHD.png" group-title="FR| LA NATURE", |FR| TREK SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13040
+#EXTINF:-1 tvg-id="13039" tvg-name="|FR| CHASSE&PECHE SD" tvg-logo="http://logo.ottcst.info/CHASSEETPECHEHD.png" group-title="FR| LA NATURE", |FR| CHASSE&PECHE SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13039
+#EXTINF:-1 tvg-id="13037" tvg-name="|FR| RMC DECOUVERTE SD" tvg-logo="http://logo.ottcst.info/RMCDECOUVERTEHD.png" group-title="FR| LA NATURE", |FR| RMC DECOUVERTE SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13037
+#EXTINF:-1 tvg-id="13036" tvg-name="|FR| SEASONS SD" tvg-logo="http://logo.ottcst.info/SEASONSHD.png" group-title="FR| LA NATURE", |FR| SEASONS SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13036
+#EXTINF:-1 tvg-id="13035" tvg-name="|FR| GULLI SD" tvg-logo="http://logo.ottcst.info/GULLIHD.png" group-title="FR| LA NATURE", |FR| GULLI SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13035
+#EXTINF:-1 tvg-id="13034" tvg-name="|FR| TCM CINEMA SD" tvg-logo="http://logo.ottcst.info/TCMCINEMAHD.png" group-title="FR| LA NATURE", |FR| TCM CINEMA SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13034
+#EXTINF:-1 tvg-id="13033" tvg-name="|FR| CRIME DISTRICT SD" tvg-logo="http://logo.ottcst.info/CRIMEDISTRICTHD.png" group-title="FR| LA NATURE", |FR| CRIME DISTRICT SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13033
+#EXTINF:-1 tvg-id="13031" tvg-name="|FR| M6 MUSIC HD" tvg-logo="http://logo.ottcst.info/M6MUSICHD.png" group-title="FR| LA MUSIQUE", |FR| M6 MUSIC HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13031
+#EXTINF:-1 tvg-id="13030" tvg-name="|FR| TRACE URBAN HD" tvg-logo="http://logo.ottcst.info/TRACEURBANHD.png" group-title="FR| LA MUSIQUE", |FR| TRACE URBAN HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13030
+#EXTINF:-1 tvg-id="13029" tvg-name="|FR| MEZZO LIVE HD" tvg-logo="http://logo.ottcst.info/MEZZOLIVEHD.png" group-title="FR| LA MUSIQUE", |FR| MEZZO LIVE HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13029
+#EXTINF:-1 tvg-id="13028" tvg-name="|FR| MCM HD" tvg-logo="http://logo.ottcst.info/MCMHD.png" group-title="FR| LA MUSIQUE", |FR| MCM HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13028
+#EXTINF:-1 tvg-id="13027" tvg-name="|FR| MCM TOP HD" tvg-logo="http://logo.ottcst.info/MCMTOPHD.png" group-title="FR| LA MUSIQUE", |FR| MCM TOP HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13027
+#EXTINF:-1 tvg-id="13026" tvg-name="|FR| MELODY TV HD" tvg-logo="http://logo.ottcst.info/MELODYTVHD.png" group-title="FR| LA MUSIQUE", |FR| MELODY TV HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13026
+#EXTINF:-1 tvg-id="13025" tvg-name="|FR| LFM TV HD" tvg-logo="http://logo.ottcst.info/LFMTVHD.png" group-title="FR| LA MUSIQUE", |FR| LFM TV HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13025
+#EXTINF:-1 tvg-id="13024" tvg-name="|FR| NRJ HITS HD" tvg-logo="http://logo.ottcst.info/NRJHITSHD.png" group-title="FR| LA MUSIQUE", |FR| NRJ HITS HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13024
+#EXTINF:-1 tvg-id="13023" tvg-name="|FR| RFM TV HD" tvg-logo="http://logo.ottcst.info/RFMTVHD.png" group-title="FR| LA MUSIQUE", |FR| RFM TV HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13023
+#EXTINF:-1 tvg-id="13022" tvg-name="|FR| MTV HD" tvg-logo="http://logo.ottcst.info/MTVHD.png" group-title="FR| LA MUSIQUE", |FR| MTV HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13022
+#EXTINF:-1 tvg-id="13020" tvg-name="|FR| MTV HITS HD" tvg-logo="http://logo.ottcst.info/MTVHITS.png" group-title="FR| LA MUSIQUE", |FR| MTV HITS HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13020
+#EXTINF:-1 tvg-id="13019" tvg-name="|FR| TVM 3 HD" tvg-logo="http://logo.ottcst.info/TVM3HD.png" group-title="FR| LA MUSIQUE", |FR| TVM 3 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13019
+#EXTINF:-1 tvg-id="13018" tvg-name="|FR| C STAR HIT HD" tvg-logo="http://logo.ottcst.info/CSTARHIT.png" group-title="FR| LA MUSIQUE", |FR| C STAR HIT HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/13018
+#EXTINF:-1 tvg-id="67618" tvg-name="|FR| TRACE GOSPEL 4K" tvg-logo="http://logo.ottcst.info/TRACEGOSPEL.png" group-title="FR| LA MUSIQUE", |FR| TRACE GOSPEL 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/67618
+#EXTINF:-1 tvg-id="12999" tvg-name="|FR| M6 MUSIC SD" tvg-logo="http://logo.ottcst.info/M6MUSICHD.png" group-title="FR| LA MUSIQUE", |FR| M6 MUSIC SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/12999
+#EXTINF:-1 tvg-id="1535096" tvg-name="BEIN MOVIES 2 4k" tvg-logo="" group-title="ARAB| BEIN MOVIES", BEIN MOVIES 2 4k
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1535096
+#EXTINF:-1 tvg-id="1535093" tvg-name="BEIN SERIES 1 4K" tvg-logo="" group-title="ARAB| BEIN MOVIES", BEIN SERIES 1 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1535093
+#EXTINF:-1 tvg-id="1535092" tvg-name="BEIN SERIES 2 4K" tvg-logo="" group-title="ARAB| BEIN MOVIES", BEIN SERIES 2 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1535092
+#EXTINF:-1 tvg-id="1535091" tvg-name="BEIN GOURMET 4K" tvg-logo="" group-title="ARAB| BEIN MOVIES", BEIN GOURMET 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1535091
+#EXTINF:-1 tvg-id="11451" tvg-name="|AR| BEIN MOVIES 1 HD" tvg-logo="http://logo.ottcst.info/BEINMOVIES1HD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN MOVIES 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11451
+#EXTINF:-1 tvg-id="11450" tvg-name="|AR| BEIN MOVIES 2 HD" tvg-logo="http://logo.ottcst.info/BEINMOVIES2HD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN MOVIES 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11450
+#EXTINF:-1 tvg-id="11449" tvg-name="|AR| BEIN MOVIES 3 HD" tvg-logo="http://logo.ottcst.info/BEINMOVIES3HD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN MOVIES 3 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11449
+#EXTINF:-1 tvg-id="11448" tvg-name="|AR| BEIN MOVIES 4 HD" tvg-logo="http://logo.ottcst.info/BEINMOVIES4HD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN MOVIES 4 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11448
+#EXTINF:-1 tvg-id="11446" tvg-name="|AR| BEIN SERIES 1 HD" tvg-logo="http://logo.ottcst.info/BEINSERIES1HD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN SERIES 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11446
+#EXTINF:-1 tvg-id="11445" tvg-name="|AR| BEIN SERIES 2 HD" tvg-logo="http://logo.ottcst.info/BEINSERIES2HD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN SERIES 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11445
+#EXTINF:-1 tvg-id="11444" tvg-name="|AR| BEIN DRAMA HD" tvg-logo="http://logo.ottcst.info/BEINDRAMAHD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN DRAMA HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11444
+#EXTINF:-1 tvg-id="11442" tvg-name="|AR| BEIN FOX MOVIES ACTION HD" tvg-logo="http://logo.ottcst.info/BEINFOXMOVIESACTIONHD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN FOX MOVIES ACTION HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11442
+#EXTINF:-1 tvg-id="11440" tvg-name="|AR| BEIN GOURMET" tvg-logo="http://logo.ottcst.info/BEINGOURMET.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN GOURMET
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11440
+#EXTINF:-1 tvg-id="11439" tvg-name="|AR| BEIN BARAEM HD" tvg-logo="http://logo.ottcst.info/BEINBARAEMHD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN BARAEM HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11439
+#EXTINF:-1 tvg-id="11437" tvg-name="|AR| BEIN FATAFEAT" tvg-logo="http://logo.ottcst.info/BEINFATAFEAT.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN FATAFEAT
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11437
+#EXTINF:-1 tvg-id="11435" tvg-name="|AR| BEIN JEEM HD" tvg-logo="http://logo.ottcst.info/BEINJEEMHD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN JEEM HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11435
+#EXTINF:-1 tvg-id="11434" tvg-name="|AR| BEIN NAT GEO" tvg-logo="http://logo.ottcst.info/BEINNATGEO.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN NAT GEO
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11434
+#EXTINF:-1 tvg-id="11432" tvg-name="|AR| BEIN NAT GEO WILD" tvg-logo="http://logo.ottcst.info/BEINNATGEOWILD.png" group-title="ARAB| BEIN MOVIES", |AR| BEIN NAT GEO WILD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/11432
+#EXTINF:-1 tvg-id="922700" tvg-name="|AR| BEIN 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS4K.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/922700
+#EXTINF:-1 tvg-id="574594" tvg-name="|AR| BEIN GLOBAL HEVC " tvg-logo="http://logo.ottcst.info/BEINSPORTSHD.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN GLOBAL HEVC 
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574594
+#EXTINF:-1 tvg-id="574593" tvg-name="|AR| BEIN SPORTS NEWS HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSNEWSHD.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS NEWS HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574593
+#EXTINF:-1 tvg-id="574592" tvg-name="|AR| BEIN SPORTS NBA HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSNBA.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS NBA HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574592
+#EXTINF:-1 tvg-id="618293" tvg-name="|AR| BEIN SPORTS 1 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 1 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618293
+#EXTINF:-1 tvg-id="618292" tvg-name="|AR| BEIN SPORTS 2 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 2 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618292
+#EXTINF:-1 tvg-id="618291" tvg-name="|AR| BEIN SPORTS 3 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 3 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618291
+#EXTINF:-1 tvg-id="618290" tvg-name="|AR| BEIN SPORTS 4 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 4 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618290
+#EXTINF:-1 tvg-id="618289" tvg-name="|AR| BEIN SPORTS 5 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 5 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618289
+#EXTINF:-1 tvg-id="618288" tvg-name="|AR| BEIN SPORTS 6 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 6 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618288
+#EXTINF:-1 tvg-id="618287" tvg-name="|AR| BEIN SPORTS 7 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 7 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618287
+#EXTINF:-1 tvg-id="618286" tvg-name="|AR| BEIN SPORTS 8 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 8 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618286
+#EXTINF:-1 tvg-id="618285" tvg-name="|AR| BEIN SPORTS 9 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS 9 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618285
+#EXTINF:-1 tvg-id="574582" tvg-name="|AR| BEIN XTRA 1 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN XTRA 1 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574582
+#EXTINF:-1 tvg-id="574581" tvg-name="|AR| BEIN XTRA 2 HEVC " tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN XTRA 2 HEVC 
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574581
+#EXTINF:-1 tvg-id="574580" tvg-name="|AR| BEIN XTRA 3 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN XTRA 3 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574580
+#EXTINF:-1 tvg-id="574579" tvg-name="|AR| BEIN SPORTS EN 1 HEVC L " tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH1.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS EN 1 HEVC L 
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574579
+#EXTINF:-1 tvg-id="574578" tvg-name="|AR| BEIN SPORTS EN 2 HEVC " tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH2.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS EN 2 HEVC 
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574578
+#EXTINF:-1 tvg-id="574576" tvg-name="|AR| BEIN SPORTS FR 1 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH1.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS FR 1 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574576
+#EXTINF:-1 tvg-id="574577" tvg-name="|AR| BEIN SPORTS FR 2 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH2.png" group-title="ARAB| BEIN SPORTS HEVC", |AR| BEIN SPORTS FR 2 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574577
+#EXTINF:-1 tvg-id="574467" tvg-name="|AR| BEIN GLOBAL 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSHD.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN GLOBAL 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574467
+#EXTINF:-1 tvg-id="574468" tvg-name="|AR| BEIN SPORTS NEWS 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSNEWSHD.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS NEWS 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574468
+#EXTINF:-1 tvg-id="618310" tvg-name="|AR| BEIN SPORT NBA 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSNBA.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORT NBA 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618310
+#EXTINF:-1 tvg-id="618309" tvg-name="|AR| BEIN SPORTS 1 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 1 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618309
+#EXTINF:-1 tvg-id="618308" tvg-name="|AR| BEIN SPORTS 2 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 2 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618308
+#EXTINF:-1 tvg-id="618307" tvg-name="|AR| BEIN SPORTS 3 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 3 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618307
+#EXTINF:-1 tvg-id="618306" tvg-name="|AR| BEIN SPORTS 4 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 4 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618306
+#EXTINF:-1 tvg-id="618305" tvg-name="|AR| BEIN SPORTS 5 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 5 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618305
+#EXTINF:-1 tvg-id="618304" tvg-name="|AR| BEIN SPORTS 6 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 6 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618304
+#EXTINF:-1 tvg-id="618303" tvg-name="|AR| BEIN SPORTS 7 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 7 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618303
+#EXTINF:-1 tvg-id="618302" tvg-name="|AR| BEIN SPORTS 8 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 8 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618302
+#EXTINF:-1 tvg-id="618301" tvg-name="|AR| BEIN SPORTS 9 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS 9 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618301
+#EXTINF:-1 tvg-id="618300" tvg-name="|AR| BEIN XTRA 1 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN XTRA 1 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618300
+#EXTINF:-1 tvg-id="618299" tvg-name="|AR| BEIN XTRA 2 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN XTRA 2 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618299
+#EXTINF:-1 tvg-id="618298" tvg-name="|AR| BEIN XTRA 3 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN XTRA 3 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618298
+#EXTINF:-1 tvg-id="618297" tvg-name="|AR| BEIN SPORTS EN 1 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH1.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS EN 1 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618297
+#EXTINF:-1 tvg-id="574452" tvg-name="|AR| BEIN SPORTS EN 2 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH2.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS EN 2 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/574452
+#EXTINF:-1 tvg-id="618296" tvg-name="|AR| BEIN SPORTS FR 1 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH1.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS FR 1 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618296
+#EXTINF:-1 tvg-id="618295" tvg-name="|AR| BEIN SPORTS FR 2 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH2.png" group-title="ARAB| BEIN SPORTS 4K", |AR| BEIN SPORTS FR 2 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/618295
+#EXTINF:-1 tvg-id="572120" tvg-name="|VIP| beIN SPORTS 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSHD.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572120
+#EXTINF:-1 tvg-id="572119" tvg-name="|VIP| beIN SPORTS News 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSNEWSHD.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS News 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572119
+#EXTINF:-1 tvg-id="572134" tvg-name="|VIP| beIN SPORTS 4K 1" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572134
+#EXTINF:-1 tvg-id="572132" tvg-name="|VIP| beIN SPORTS 4K 2" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 2
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572132
+#EXTINF:-1 tvg-id="572133" tvg-name="|VIP| beIN SPORTS 4K 3" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 3
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572133
+#EXTINF:-1 tvg-id="572131" tvg-name="|VIP| beIN SPORTS 4K 4" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 4
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572131
+#EXTINF:-1 tvg-id="572130" tvg-name="|VIP| beIN SPORTS 4K 5" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 5
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572130
+#EXTINF:-1 tvg-id="572129" tvg-name="|VIP| beIN SPORTS 4K 6" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 6
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572129
+#EXTINF:-1 tvg-id="572128" tvg-name="|VIP| beIN SPORTS 4K 7" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 7
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572128
+#EXTINF:-1 tvg-id="572127" tvg-name="|VIP| beIN SPORTS 4K 8" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 8
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572127
+#EXTINF:-1 tvg-id="572126" tvg-name="|VIP| beIN SPORTS 4K 9" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 4K 9
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572126
+#EXTINF:-1 tvg-id="572125" tvg-name="|VIP| beIN Sport English 4k 1" tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH1.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN Sport English 4k 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572125
+#EXTINF:-1 tvg-id="572122" tvg-name="|VIP| beIN SPORTS 1 Xtra 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 1 Xtra 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572122
+#EXTINF:-1 tvg-id="572121" tvg-name="|VIP| beIN SPORTS 2 Xtra 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 2 Xtra 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572121
+#EXTINF:-1 tvg-id="572105" tvg-name="|VIP| beIN SPORTS News FHD" tvg-logo="http://logo.ottcst.info/BEINSPORTSNEWSHD.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS News FHD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572105
+#EXTINF:-1 tvg-id="572106" tvg-name="|VIP| beIN SPORTS FHD" tvg-logo="http://logo.ottcst.info/BEINSPORTSHD.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572106
+#EXTINF:-1 tvg-id="572118" tvg-name="|VIP| beIN SPORTS FHD 1" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572118
+#EXTINF:-1 tvg-id="572117" tvg-name="|VIP| beIN SPORTS FHD 2" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 2
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572117
+#EXTINF:-1 tvg-id="572116" tvg-name="|VIP| beIN SPORTS FHD 3" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 3
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572116
+#EXTINF:-1 tvg-id="572115" tvg-name="|VIP| beIN SPORTS FHD 4" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 4
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572115
+#EXTINF:-1 tvg-id="572114" tvg-name="|VIP| beIN SPORTS FHD 5" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 5
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572114
+#EXTINF:-1 tvg-id="572113" tvg-name="|VIP| beIN SPORTS FHD 6" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 6
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572113
+#EXTINF:-1 tvg-id="572112" tvg-name="|VIP| beIN SPORTS FHD 7" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 7
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572112
+#EXTINF:-1 tvg-id="572111" tvg-name="|VIP| beIN SPORTS FHD 8" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 8
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572111
+#EXTINF:-1 tvg-id="572110" tvg-name="|VIP| beIN SPORTS FHD 9" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS FHD 9
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572110
+#EXTINF:-1 tvg-id="572109" tvg-name="|VIP| beIN Sport English FHD 1" tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH1.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN Sport English FHD 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572109
+#EXTINF:-1 tvg-id="572090" tvg-name="|VIP| BEIN SPORTS HD" tvg-logo="http://logo.ottcst.info/BEINSPORTSHD.png" group-title="ARAB| BEIN SPORT VIP", |VIP| BEIN SPORTS HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572090
+#EXTINF:-1 tvg-id="572104" tvg-name="|VIP| beIN SPORTS HD 1" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572104
+#EXTINF:-1 tvg-id="572103" tvg-name="|VIP| beIN SPORTS HD 2" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 2
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572103
+#EXTINF:-1 tvg-id="572102" tvg-name="|VIP| beIN SPORTS HD 3" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 3
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572102
+#EXTINF:-1 tvg-id="572101" tvg-name="|VIP| beIN SPORTS HD 4" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 4
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572101
+#EXTINF:-1 tvg-id="572100" tvg-name="|VIP| beIN SPORTS HD 5" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 5
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572100
+#EXTINF:-1 tvg-id="572099" tvg-name="|VIP| beIN SPORTS HD 6" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 6
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572099
+#EXTINF:-1 tvg-id="572098" tvg-name="|VIP| beIN SPORTS HD 7" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 7
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572098
+#EXTINF:-1 tvg-id="572097" tvg-name="|VIP| beIN SPORTS HD 8" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 8
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572097
+#EXTINF:-1 tvg-id="572096" tvg-name="|VIP| beIN SPORTS HD 9" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS HD 9
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572096
+#EXTINF:-1 tvg-id="572095" tvg-name="|VIP| beIN Sport English HD 1" tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH1.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN Sport English HD 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572095
+#EXTINF:-1 tvg-id="572094" tvg-name="|VIP| BEIN SPORT NEWS 2" tvg-logo="http://logo.ottcst.info/BEINSPORTSNEWSHD.png" group-title="ARAB| BEIN SPORT VIP", |VIP| BEIN SPORT NEWS 2
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572094
+#EXTINF:-1 tvg-id="572092" tvg-name="|VIP| beIN SPORTS 1 Xtra HD" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 1 Xtra HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572092
+#EXTINF:-1 tvg-id="572091" tvg-name="|VIP| beIN SPORTS 2 Xtra HD" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" group-title="ARAB| BEIN SPORT VIP", |VIP| beIN SPORTS 2 Xtra HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/572091
+#EXTINF:-1 tvg-id="1742799" tvg-name="ALWAN SPORT 1 HD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742799
+#EXTINF:-1 tvg-id="1742798" tvg-name="ALWAN SPORT 1 SD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 1 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742798
+#EXTINF:-1 tvg-id="1742797" tvg-name="ALWAN SPORT 1 4K" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 1 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742797
+#EXTINF:-1 tvg-id="1742796" tvg-name="ALWAN SPORT 2 HD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742796
+#EXTINF:-1 tvg-id="1742795" tvg-name="ALWAN SPORT 2 SD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 2 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742795
+#EXTINF:-1 tvg-id="1742794" tvg-name="ALWAN SPORT 2 4K" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 2 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742794
+#EXTINF:-1 tvg-id="1742793" tvg-name="ALWAN SPORT 3 HD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 3 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742793
+#EXTINF:-1 tvg-id="1742792" tvg-name="ALWAN SPORT 3 SD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 3 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742792
+#EXTINF:-1 tvg-id="1742791" tvg-name="ALWAN SPORT 3 4K" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 3 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742791
+#EXTINF:-1 tvg-id="1742790" tvg-name="ALWAN SPORT 4 HD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 4 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742790
+#EXTINF:-1 tvg-id="1742789" tvg-name="ALWAN SPORT 4 SD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 4 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742789
+#EXTINF:-1 tvg-id="1742788" tvg-name="ALWAN SPORT 4 4K" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 4 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742788
+#EXTINF:-1 tvg-id="1742787" tvg-name="ALWAN SPORT 5 HD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 5 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742787
+#EXTINF:-1 tvg-id="1742786" tvg-name="ALWAN SPORT 5 SD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 5 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742786
+#EXTINF:-1 tvg-id="1742785" tvg-name="ALWAN SPORT 5 4K" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 5 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742785
+#EXTINF:-1 tvg-id="1742784" tvg-name="ALWAN SPORT 6 HD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 6 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742784
+#EXTINF:-1 tvg-id="1742783" tvg-name="ALWAN SPORT 6 SD" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 6 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742783
+#EXTINF:-1 tvg-id="1742782" tvg-name="ALWAN SPORT 6 4K" tvg-logo="" group-title="ARAB| ALWAN SPORT", ALWAN SPORT 6 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1742782
+#EXTINF:-1 tvg-id="425612" tvg-name="|AR| STARZ PLAY SPORT 1 HD" tvg-logo="http://logo.ottcst.info/STARZPLAY.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| STARZ PLAY SPORT 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/425612
+#EXTINF:-1 tvg-id="425611" tvg-name="|AR| STARZ PLAY SPORT 2 HD" tvg-logo="http://logo.ottcst.info/STARZPLAY.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| STARZ PLAY SPORT 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/425611
+#EXTINF:-1 tvg-id="425610" tvg-name="|AR| STARZ PLAY SPORT 3 HD" tvg-logo="http://logo.ottcst.info/STARZPLAY.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| STARZ PLAY SPORT 3 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/425610
+#EXTINF:-1 tvg-id="439745" tvg-name="|AR| STARZPLAY CRICLIFE 1 HD" tvg-logo="http://logo.ottcst.info/STARZPLAY.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| STARZPLAY CRICLIFE 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/439745
+#EXTINF:-1 tvg-id="439749" tvg-name="|AR| STARZPLAY CRICLIFE 2 HD" tvg-logo="http://logo.ottcst.info/STARZPLAY.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| STARZPLAY CRICLIFE 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/439749
+#EXTINF:-1 tvg-id="426437" tvg-name="|AR| AD Sport Premium 1 4K" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD Sport Premium 1 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/426437
+#EXTINF:-1 tvg-id="426436" tvg-name="|AR| AD Sport Premium 1 HD" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD Sport Premium 1 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/426436
+#EXTINF:-1 tvg-id="426435" tvg-name="|AR| AD Sport Premium 1 SD" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD Sport Premium 1 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/426435
+#EXTINF:-1 tvg-id="426434" tvg-name="|AR| AD Sport Premium 2 4K" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD Sport Premium 2 4K
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/426434
+#EXTINF:-1 tvg-id="426433" tvg-name="|AR| AD Sport Premium 2 HD" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD Sport Premium 2 HD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/426433
+#EXTINF:-1 tvg-id="426432" tvg-name="|AR| AD Sport Premium 2 SD" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD Sport Premium 2 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/426432
+#EXTINF:-1 tvg-id="434579" tvg-name="|AR| AD SPORTS PREMIUM 1 HD*" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS PREMIUM 1 HD*
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/434579
+#EXTINF:-1 tvg-id="434577" tvg-name="|AR| AD SPORTS PREMIUM 1 HEVC" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS PREMIUM 1 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/434577
+#EXTINF:-1 tvg-id="434576" tvg-name="|AR| AD SPORTS PREMIUM 2 HD*" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS PREMIUM 2 HD*
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/434576
+#EXTINF:-1 tvg-id="434574" tvg-name="|AR| AD SPORTS PREMIUM 2 HEVC" tvg-logo="http://logo.ottcst.info/ADSPORTPREMIUM.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS PREMIUM 2 HEVC
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/434574
+#EXTINF:-1 tvg-id="434582" tvg-name="|AR| AD SPORTS ASIA 1" tvg-logo="http://logo.ottcst.info/ADSPORTSASIA.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS ASIA 1
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/434582
+#EXTINF:-1 tvg-id="478926" tvg-name="|AR| AD SPORTS ASIA 1 SD" tvg-logo="http://logo.ottcst.info/ADSPORTSASIA.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS ASIA 1 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/478926
+#EXTINF:-1 tvg-id="434580" tvg-name="|AR| AD SPORTS ASIA 2" tvg-logo="http://logo.ottcst.info/ADSPORTSASIA.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS ASIA 2
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/434580
+#EXTINF:-1 tvg-id="478927" tvg-name="|AR| AD SPORTS ASIA 2 SD" tvg-logo="http://logo.ottcst.info/ADSPORTSASIA.png" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM", |AR| AD SPORTS ASIA 2 SD
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/478927
+#EXTINF:-1 tvg-id="1523508" tvg-name="|AR| AD PREMIUM 1 50fpsⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD PREMIUM 1 50fpsⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523508
+#EXTINF:-1 tvg-id="1523507" tvg-name="|AR| AD PREMIUM 1 HEVCⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD PREMIUM 1 HEVCⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523507
+#EXTINF:-1 tvg-id="1523506" tvg-name="|AR| AD PREMIUM 1 HDⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD PREMIUM 1 HDⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523506
+#EXTINF:-1 tvg-id="1523505" tvg-name="|AR| AD PREMIUM 2 50fpsⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD PREMIUM 2 50fpsⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523505
+#EXTINF:-1 tvg-id="1523504" tvg-name="|AR| AD PREMIUM 2 HEVCⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD PREMIUM 2 HEVCⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523504
+#EXTINF:-1 tvg-id="1523503" tvg-name="|AR| AD PREMIUM 2 HDⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD PREMIUM 2 HDⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523503
+#EXTINF:-1 tvg-id="1523502" tvg-name="|AR| AD SPORT ASIA 1 HEVCⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD SPORT ASIA 1 HEVCⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523502
+#EXTINF:-1 tvg-id="1523501" tvg-name="|AR| AD SPORT ASIA 1 HDⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD SPORT ASIA 1 HDⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523501
+#EXTINF:-1 tvg-id="1523500" tvg-name="|AR| AD SPORT ASIA 2 HEVCⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD SPORT ASIA 2 HEVCⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523500
+#EXTINF:-1 tvg-id="1523499" tvg-name="|AR| AD SPORT ASIA 2 HDⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| AD SPORT ASIA 2 HDⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523499
+#EXTINF:-1 tvg-id="1523498" tvg-name="|AR| STARZ PLAY SPORTSⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| STARZ PLAY SPORTSⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523498
+#EXTINF:-1 tvg-id="1523497" tvg-name="|AR| STARZ PLAY ACTIONⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| STARZ PLAY ACTIONⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523497
+#EXTINF:-1 tvg-id="1523496" tvg-name="|AR| STARZ PLAY COMEDYⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| STARZ PLAY COMEDYⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523496
+#EXTINF:-1 tvg-id="1523495" tvg-name="|AR| STARZ PLAY CRIMEⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| STARZ PLAY CRIMEⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523495
+#EXTINF:-1 tvg-id="1523494" tvg-name="|AR| STARZ PLAY MOVIESⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| STARZ PLAY MOVIESⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523494
+#EXTINF:-1 tvg-id="1523493" tvg-name="|AR| STARZ PLAY SERIESⁿˣ" tvg-logo="" group-title="ARAB| STARZ PLAY/AD SPORTS PREMIUMⁿˣ", |AR| STARZ PLAY SERIESⁿˣ
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1523493
+#EXTINF:-1 tvg-id="1495958" tvg-name="|AR| Mura!" tvg-logo="https://image.tmdb.org/t/p/w500/c9aBt5lAV8PgCfbm4mEc2SpPCJj.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Mura!
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1495958
+#EXTINF:-1 tvg-id="1495886" tvg-name="|AR| Songs of Earth" tvg-logo="https://image.tmdb.org/t/p/w500/h7mbw1HL6AQFkNIpC8BpQ1YASTJ.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Songs of Earth
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1495886
+#EXTINF:-1 tvg-id="1495885" tvg-name="|AR| Don- t Die: The Man Who Wants to Live Forever" tvg-logo="https://image.tmdb.org/t/p/w500/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Don- t Die: The Man Who Wants to Live Forever
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1495885
+#EXTINF:-1 tvg-id="1495884" tvg-name="|AR| Avicii - My Last Show" tvg-logo="https://image.tmdb.org/t/p/w500/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Avicii - My Last Show
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1495884
+#EXTINF:-1 tvg-id="1495883" tvg-name="|AR| Avicii - Im Tim" tvg-logo="https://image.tmdb.org/t/p/w500/3XWGldq2HTOxwN8GUIGD8uuyade.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Avicii - Im Tim
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1495883
+#EXTINF:-1 tvg-id="1476939" tvg-name="|AR| When Shark Meets Croc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbR4t9zeemzWaf4k94G_V_qKURkXODLluhLg&s" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| When Shark Meets Croc
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1476939
+#EXTINF:-1 tvg-id="1454695" tvg-name="|AR| Kate & The King: A Special Relationship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1theFgSc_dYx0IqwXEUVV1XEUjCwjpYgNbcVV_Vm9UsZ1DqKQ" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Kate & The King: A Special Relationship
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1454695
+#EXTINF:-1 tvg-id="1454694" tvg-name="|AR| جون وين أميرك -بأي ثمن" tvg-logo="https://nowcdn.asharq.com/1600x900/19529474811732011706.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| جون وين أميرك -بأي ثمن
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1454694
+#EXTINF:-1 tvg-id="1454693" tvg-name="|AR| ابتكار ستار تريك" tvg-logo="https://nowcdn.asharq.com/1600x900/1811880801732114400.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| ابتكار ستار تريك
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1454693
+#EXTINF:-1 tvg-id="1454692" tvg-name="|AR| Dogs of War!" tvg-logo="https://image.tmdb.org/t/p/w500/6tf6YSsTUI8hDespy2TNcMhNnVa.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Dogs of War!
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1454692
+#EXTINF:-1 tvg-id="1454691" tvg-name="|AR| Biggest Heist Ever" tvg-logo="https://image.tmdb.org/t/p/w500/wIS7g0i09afNbHQ9VHRnP8PErTs.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Biggest Heist Ever
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1454691
+#EXTINF:-1 tvg-id="1454690" tvg-name="|AR| Amazing Ocean 3D" tvg-logo="https://image.tmdb.org/t/p/w500/8CZIrgi5ZH06Qlyt7baeUgse9y8.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Amazing Ocean 3D
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1454690
+#EXTINF:-1 tvg-id="1151610" tvg-name="|AR| It Aint Over" tvg-logo="https://image.tmdb.org/t/p/w500/upAwASIInWDe612sDcljp914eVz.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| It Aint Over
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151610
+#EXTINF:-1 tvg-id="1151608" tvg-name="|AR| Nelma Kodama: The Queen of Dirty Money" tvg-logo="https://image.tmdb.org/t/p/w500/uYuW6ZBFtETyGFyc4E0563T2V9y.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Nelma Kodama: The Queen of Dirty Money
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151608
+#EXTINF:-1 tvg-id="1151590" tvg-name="|AR| The Lady Bird Diaries" tvg-logo="https://image.tmdb.org/t/p/w500/1SWlvHb0fRzGXw5Od44ZNVNDFDr.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Lady Bird Diaries
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151590
+#EXTINF:-1 tvg-id="1151586" tvg-name="|AR| The Greatest Love Story Never Told" tvg-logo="https://image.tmdb.org/t/p/w500/czYawYBFfmSYowzBAS6AkNq9ngs.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Greatest Love Story Never Told
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151586
+#EXTINF:-1 tvg-id="1151581" tvg-name="|AR| Stephen Curry: Underrated" tvg-logo="https://image.tmdb.org/t/p/w500/mFpnGiDrY9Brz4FQLKBKX1uCbl.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Stephen Curry: Underrated
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151581
+#EXTINF:-1 tvg-id="1151580" tvg-name="|AR| Stan Lee" tvg-logo="https://image.tmdb.org/t/p/w500/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Stan Lee
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151580
+#EXTINF:-1 tvg-id="1151576" tvg-name="|AR| Sly" tvg-logo="https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Sly
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151576
+#EXTINF:-1 tvg-id="1151572" tvg-name="|AR| Power" tvg-logo="https://image.tmdb.org/t/p/w500/occqDquXrdeai69INJns50Nn5tp.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Power
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151572
+#EXTINF:-1 tvg-id="1151570" tvg-name="|AR| Pictures of Ghosts" tvg-logo="https://image.tmdb.org/t/p/w500/u2fPWFAUj0IojbFzrsvxHeYgfSP.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Pictures of Ghosts
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151570
+#EXTINF:-1 tvg-id="1151562" tvg-name="|AR| Mysteries of the Terracotta Warriors" tvg-logo="https://image.tmdb.org/t/p/w500/snl9dddlnu2yKXXix2ua7G8UWoe.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Mysteries of the Terracotta Warriors
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151562
+#EXTINF:-1 tvg-id="1151557" tvg-name="|AR| Living with Leopards" tvg-logo="https://image.tmdb.org/t/p/w500/4I9CClpKze9rwW78fuMSluq2OvE.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Living with Leopards
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151557
+#EXTINF:-1 tvg-id="1151549" tvg-name="|AR| Illusions for Sale: The Rise and Fall of Generation Zoe" tvg-logo="https://image.tmdb.org/t/p/w500/5aHeqOt9B0iolBRKQdW5HWDoZ53.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Illusions for Sale: The Rise and Fall of Generation Zoe
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151549
+#EXTINF:-1 tvg-id="1151546" tvg-name="|AR| How to Rob a Bank" tvg-logo="https://image.tmdb.org/t/p/w500/vhBQOgig0bXCXIgHHyO8ipG47J9.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| How to Rob a Bank
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151546
+#EXTINF:-1 tvg-id="1151535" tvg-name="|AR| Federer: Twelve Final Days" tvg-logo="https://image.tmdb.org/t/p/w500/A15nvIYUzLEZS65vUQkZMorwNwE.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Federer: Twelve Final Days
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151535
+#EXTINF:-1 tvg-id="1151436" tvg-name="|AR| Sri Asih" tvg-logo="https://image.tmdb.org/t/p/w500/wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Sri Asih
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151436
+#EXTINF:-1 tvg-id="1146774" tvg-name="|AR| Viva Brazil" tvg-logo="https://image.tmdb.org/t/p/w500/okewrY6I4Pa5K92qX4GB60Z1qca.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Viva Brazil
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146774
+#EXTINF:-1 tvg-id="1146773" tvg-name="|AR| Two Billion Hearts" tvg-logo="https://image.tmdb.org/t/p/w500/2ZjKAbC2EkQh5AzHYB9Ke5H5orl.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Two Billion Hearts
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146773
+#EXTINF:-1 tvg-id="1146771" tvg-name="|AR| The Road to Maracanã" tvg-logo="https://image.tmdb.org/t/p/w500/qJffIQGXUE6FBtuVNUhnr0rQjD4.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Road to Maracanã
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146771
+#EXTINF:-1 tvg-id="1146770" tvg-name="|AR| The Grand Finale" tvg-logo="https://image.tmdb.org/t/p/w500/bVUFajoiJLp5kqeiXkthaz4ysRE.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Grand Finale
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146770
+#EXTINF:-1 tvg-id="1146769" tvg-name="|AR| Soccer Shoot-Out" tvg-logo="https://image.tmdb.org/t/p/w500/bZxjoEKlDXiTPEAxv7KlUBvS0Tb.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Soccer Shoot-Out
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146769
+#EXTINF:-1 tvg-id="1146768" tvg-name="|AR| Seven Games From Glory" tvg-logo="https://image.tmdb.org/t/p/w500/k5xcQgxmA1yqrpeLcJAMfT9M55A.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Seven Games From Glory
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146768
+#EXTINF:-1 tvg-id="1146767" tvg-name="|AR| Match 64: The Maracanã" tvg-logo="https://image.tmdb.org/t/p/w500/t8P7eBrVusQX8RLt1ZuOk6VrV3W.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Match 64: The Maracanã
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146767
+#EXTINF:-1 tvg-id="1146766" tvg-name="|AR| La Coupe De La Gloire" tvg-logo="https://image.tmdb.org/t/p/w500/iR4efK1A4NxzLBHELFx5VrvlT9f.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| La Coupe De La Gloire
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146766
+#EXTINF:-1 tvg-id="1146765" tvg-name="|AR| Hinein!" tvg-logo="https://image.tmdb.org/t/p/w500/3OeN7bu6e6tSvHqcSWxuyE2XVNR.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Hinein!
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146765
+#EXTINF:-1 tvg-id="1146764" tvg-name="|AR| Hero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPXXWKSgHzVYYVsLyz5L531dmWm.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Hero
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146764
+#EXTINF:-1 tvg-id="1146763" tvg-name="|AR| Heading For Glory" tvg-logo="https://image.tmdb.org/t/p/w500/fmf5HSpE2TFETHIjcOs2ftDy5dp.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Heading For Glory
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146763
+#EXTINF:-1 tvg-id="1146762" tvg-name="|AR| Goal!" tvg-logo="https://image.tmdb.org/t/p/w500/9YZhJGoIbJtrjDYbENGhR6f6SZE.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Goal!
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146762
+#EXTINF:-1 tvg-id="1146761" tvg-name="|AR| German Giants" tvg-logo="https://image.tmdb.org/t/p/w500/mOMnHUUR64owcSPuROE9FsNi6uI.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| German Giants
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146761
+#EXTINF:-1 tvg-id="1146760" tvg-name="|AR| Golé!" tvg-logo="https://image.tmdb.org/t/p/w500/pwsftk6TTYO5oQHePyQwt1Guul9.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Golé!
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146760
+#EXTINF:-1 tvg-id="1146757" tvg-name="|AR| Campeones:  1978 FIFA World Cup official film" tvg-logo="https://image.tmdb.org/t/p/w500/zlwuE5UXQ0xmM5e2n8RnArTbFvH.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Campeones:  1978 FIFA World Cup official film
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146757
+#EXTINF:-1 tvg-id="1146333" tvg-name="|AR|  The Making of King Arthur" tvg-logo="https://image.tmdb.org/t/p/w500/9oMfPUVbpunYrZ2mqR0FYrKMgMG.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR|  The Making of King Arthur
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1146333
+#EXTINF:-1 tvg-id="1144461" tvg-name="|AR| Altered States" tvg-logo="https://image.tmdb.org/t/p/w500/1iZBJcFJFupnxrSCwQIrtVgsrkA.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Altered States
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1144461
+#EXTINF:-1 tvg-id="1144372" tvg-name="|AR| First Horse Warriors" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zmesq9XLJvRNNd5F4wiVGanufO.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| First Horse Warriors
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1144372
+#EXTINF:-1 tvg-id="1144354" tvg-name="|AR| Heroes: Silence and Rock & Roll" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDUtJIr4lPeMnF7vXHyAqCXkR4s.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Heroes: Silence and Rock & Roll
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1144354
+#EXTINF:-1 tvg-id="1140457" tvg-name="|AR| Last Exit: Space" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHykNHLWiO1ciqlUF7JWfOLzprq.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Last Exit: Space
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1140457
+#EXTINF:-1 tvg-id="1140434" tvg-name="|AR| Frederick Douglass: In Five Speeches" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJU9NVzX0cIjK0yibGzwzeE2X0S.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Frederick Douglass: In Five Speeches
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1140434
+#EXTINF:-1 tvg-id="1137452" tvg-name="|AR| Untrapped: The Story of Lil Baby" tvg-logo="https://image.tmdb.org/t/p/w500/zgTHqUxuB6TmuyaMg68cBa6YTNc.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Untrapped: The Story of Lil Baby
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137452
+#EXTINF:-1 tvg-id="1137451" tvg-name="|AR| The Volcano: Rescue from Whakaari" tvg-logo="https://image.tmdb.org/t/p/w500/7LQUp64Ub9JfnLVuzyhEHdc7DBg.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Volcano: Rescue from Whakaari
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137451
+#EXTINF:-1 tvg-id="1137446" tvg-name="|AR| Ennio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNcFuARwXZ9r04Zoy5bviBmudZM.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Ennio
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137446
+#EXTINF:-1 tvg-id="1137445" tvg-name="|AR| The Flagmakers" tvg-logo="https://image.tmdb.org/t/p/w500/sMXmzP2MhtMJ2cbOp49xqBDQOSi.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Flagmakers
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137445
+#EXTINF:-1 tvg-id="1137443" tvg-name="|AR| The Anthrax Attacks: In the Shadow of 9/11" tvg-logo="https://image.tmdb.org/t/p/w500/bTJvGRD7AKaEMUOahCDfvq5rwx5.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Anthrax Attacks: In the Shadow of 9/11
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137443
+#EXTINF:-1 tvg-id="1137442" tvg-name="|AR| Take Your Pills: Xanax" tvg-logo="https://image.tmdb.org/t/p/w500/5RDldNLB7LB7IwcZUyvP2Cf1117.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Take Your Pills: Xanax
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137442
+#EXTINF:-1 tvg-id="1137441" tvg-name="|AR| State of Alabama vs. Brittany Smith" tvg-logo="https://image.tmdb.org/t/p/w500/etQ3kqeOCSyICR4rxwzqLSOt04D.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| State of Alabama vs. Brittany Smith
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137441
+#EXTINF:-1 tvg-id="1137439" tvg-name="|AR| Selena Gomez: My Mind & Me" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Selena Gomez: My Mind & Me
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137439
+#EXTINF:-1 tvg-id="1137437" tvg-name="|AR| Retrograde" tvg-logo="https://image.tmdb.org/t/p/w500/nAGQeVriV1LqAFKdIPr3QxceTJH.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Retrograde
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137437
+#EXTINF:-1 tvg-id="1137436" tvg-name="|AR| Racionais MCs: From the Streets of São Paulo" tvg-logo="https://image.tmdb.org/t/p/w500/wuAti3pkylfx0EyhfRUPpxK6Xkm.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Racionais MCs: From the Streets of São Paulo
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137436
+#EXTINF:-1 tvg-id="1137435" tvg-name="|AR| Pentatonix: Around the World for the Holidays" tvg-logo="https://image.tmdb.org/t/p/w500/17fzPvJOabO0KEImnfdFVEdgmgH.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Pentatonix: Around the World for the Holidays
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137435
+#EXTINF:-1 tvg-id="1137434" tvg-name="|AR| Pelosi in the House" tvg-logo="https://image.tmdb.org/t/p/w500/dqoyg81cnNRDhHPRK2EnDdh2jPN.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Pelosi in the House
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137434
+#EXTINF:-1 tvg-id="1137433" tvg-name="|AR| Paper & Glue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6xttPSwxO2oCXLZH0eFa4aLvyr.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Paper & Glue
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137433
+#EXTINF:-1 tvg-id="1137432" tvg-name="|AR| Obi-Wan Kenobi: A Jedis Return" tvg-logo="https://image.tmdb.org/t/p/w500/wn6LkWQst96dPGEkn8Cl2TnNnLp.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Obi-Wan Kenobi: A Jedis Return
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137432
+#EXTINF:-1 tvg-id="1137431" tvg-name="|AR| Nazi Fugitives" tvg-logo="https://image.tmdb.org/t/p/w500/ofcD60k1He8LC1vZJqVpTwOoGPo.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Nazi Fugitives
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137431
+#EXTINF:-1 tvg-id="1137421" tvg-name="|AR| Ghislaine Maxwell: Filthy Rich" tvg-logo="https://image.tmdb.org/t/p/w500/Av758PktOlmKVlCzkhKBJqwpFcN.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Ghislaine Maxwell: Filthy Rich
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137421
+#EXTINF:-1 tvg-id="1137418" tvg-name="|AR| Bank Robbers: The Last Great Heist" tvg-logo="https://image.tmdb.org/t/p/w500/1qkIyRyXsrXaear1OdJd0QWaAkC.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Bank Robbers: The Last Great Heist
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137418
+#EXTINF:-1 tvg-id="1137417" tvg-name="|AR| Avatar: The Deep Dive - A Special Edition of 20/20" tvg-logo="https://image.tmdb.org/t/p/w500/rtVeIsmeXnpjNbEKnm9Say58XjV.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Avatar: The Deep Dive - A Special Edition of 20/20
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1137417
+#EXTINF:-1 tvg-id="1128424" tvg-name="|AR| Secrets of the Neanderthals" tvg-logo="https://image.tmdb.org/t/p/w500/j0CWLFH50qVjEbPZ1TowFxjOVFW.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Secrets of the Neanderthals
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1128424
+#EXTINF:-1 tvg-id="1151590" tvg-name="|AR| The Lady Bird Diaries" tvg-logo="https://image.tmdb.org/t/p/w500/1SWlvHb0fRzGXw5Od44ZNVNDFDr.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| The Lady Bird Diaries
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151590
+#EXTINF:-1 tvg-id="1151436" tvg-name="|AR| Sri Asih" tvg-logo="https://image.tmdb.org/t/p/w500/wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Sri Asih
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1151436
+#EXTINF:-1 tvg-id="1144461" tvg-name="|AR| Altered States" tvg-logo="https://image.tmdb.org/t/p/w500/1iZBJcFJFupnxrSCwQIrtVgsrkA.jpg" group-title="|AR-SUB| MOVIES DOCUMENTARY", |AR| Altered States
+http://line.france-ott.net:80/VXCNIBAVFP/TXPRTD26KY/1144461

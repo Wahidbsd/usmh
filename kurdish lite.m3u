@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Ben sport 1(1080)" group-title="Sports",Ben sport 1(1080)
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 2(1080)" group-title="Sports",Ben sport 2(1080)
+https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 3(1080)" group-title="Sports",Ben sport 3(1080)
+https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 41080)" group-title="Sports",Ben sport 41080)
+https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 5(1080)" group-title="Sports",Ben sport 5(1080)
+https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 6(1080)" group-title="Sports",Ben sport 6(1080)
+https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 7(1080)" group-title="Sports",Ben sport 7(1080)
+https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 8(1080)" group-title="Sports",Ben sport 8(1080)
+https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 9(1080)" group-title="Sports",Ben sport 9(1080)
+https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 10(1080)" group-title="Sports",Ben sport 10(1080)
+https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_1080.m3u8
+#EXTINF:-1 tvg-name="Ben sport 1(720)" group-title="Sports",Ben sport 1(720)
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 2(720)" group-title="Sports",Ben sport 2(720)
+https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 3(720)" group-title="Sports",Ben sport 3(720)
+https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 4(720)" group-title="Sports",Ben sport 4(720)
+https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 5(720)" group-title="Sports",Ben sport 5(720)
+https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 6(720)" group-title="Sports",Ben sport 6(720)
+https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 7(720)" group-title="Sports",Ben sport 7(720)
+https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 8(720)" group-title="Sports",Ben sport 8(720)
+https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 9(720)" group-title="Sports",Ben sport 9(720)
+https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_720.m3u8
+#EXTINF:-1 tvg-name="Ben sport 10(720)" group-title="Sports",Ben sport 10(720)
+https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
+#EXTINF:-1 tvg-name="Bein sports 1 4K محمد اللامي" tvg-logo="http://widget.ottplayer.tv/upictures/ea4b6828-cb1a-4cc8-87b2-93e5655cd4f4.png" group-title="Sports",Bein sports 1 4K محمد اللامي
+https://stream.supertv.gg:3001/sport/ch1/ch1_1080.m3u8
+#EXTINF:-1 tvg-name="MMN Sports 4K" tvg-logo="http://widget.ottplayer.tv/upictures/78cbe20d-b448-421f-95f6-d1c5020c0e4d.png" group-title="Sports",Bein sports 2 4K محمد اللامي 
+https://stream.supertv.gg:3002/sport/ch2/ch2_1080.m3u8
+#EXTINF:-1 tvg-name="AD SPORT 1 4K" tvg-logo="http://widget.ottplayer.tv/upictures/f8fb46ec-5a24-4ffe-817c-63b2c37cc2eb.png" group-title="Sports",Bein sports 3 4K محمد اللامي 
+https://stream.supertv.gg:3003/sport/ch3/ch3_1080.m3u8
+#EXTINF:-1 tvg-name="4K premium ابو ظبي الرياضية" tvg-logo="http://widget.ottplayer.tv/upictures/9bb4a042-efea-4415-af07-68f7a094c33e.png" group-title="Sports",4K premium ابو ظبي الرياضية
+https://stream.supertv.gg:3010/sport/ch10/ch10_1080.m3u8
+#EXTINF:-1 tvg-name="AD SPORT 2 4K" tvg-logo="http://widget.ottplayer.tv/upictures/de04d9be-caed-4c6f-80de-815d5d692c74.png" group-title="Sports",HD premium ابو ظبي الرياضية 
+https://stream.supertv.gg:3010/sport/ch10/ch10_720.m3u8
+#EXTINF:-1 tvg-name="SD premium ابو ظبي الرياضية" tvg-logo="http://widget.ottplayer.tv/upictures/8395e8aa-54f1-43a6-8399-777f36fd1276.png" group-title="Sports",SD premium ابو ظبي الرياضية
+https://stream.supertv.gg:3010/sport/ch10/ch10_360.m3u8
+#EXTINF:-1 tvg-name="Bein sports 4 4K" tvg-logo="http://widget.ottplayer.tv/upictures/86d8b94e-1794-4d18-90cf-3775cad3b5cf.png" group-title="Sports",Bein sports 4 4K
+https://stream.supertv.gg:3004/sport/ch4/ch4_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sports 5 4K" tvg-logo="http://widget.ottplayer.tv/upictures/0eccc046-c807-4532-b12b-0ea0b3c8537c.png" group-title="Sports",Bein sports 5 4K
+https://stream.supertv.gg:3005/sport/ch5/ch5_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sports 6 4K" tvg-logo="http://widget.ottplayer.tv/upictures/31a843c5-693b-490b-b62e-208a330af328.png" group-title="Sports",Bein sports 6 4K
+https://stream.supertv.gg:3006/sport/ch6/ch6_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sports 7 4K" tvg-logo="http://widget.ottplayer.tv/upictures/a3ec81c3-dce0-4452-87a8-694a449453c5.png" group-title="Sports",Bein sports 7 4K
+https://stream.supertv.gg:3007/sport/ch7/ch7_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sports 8 4K" tvg-logo="http://widget.ottplayer.tv/upictures/d64416f9-def7-49e0-aaed-2698bab19d4b.png" group-title="Sports",Bein sports 8 4K
+https://stream.supertv.gg:3008/sport/ch8/ch8_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sports 9 4K" tvg-logo="http://widget.ottplayer.tv/upictures/46b0a6b4-c380-4a1a-b957-ac8f63c1f849.png" group-title="Sports",Bein sports 9 4K
+https://stream.supertv.gg:3009/sport/ch9/ch9_1080.m3u8
+#EXTINF:-1 tvg-name="MBC 1 4K" group-title="Entertainment",MBC 1 4K
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+#EXTINF:-1 tvg-name="4K الاردن دراما" group-title="Entertainment",4K الاردن دراما
+https://playlist.fasttvcdn.com:443/pl/cc0blorawy1ibohhrupraa/Drama/playlist/0.m3u8
+#EXTINF:-1 tvg-name="HD رؤيا أكشن" group-title="Entertainment",HD رؤيا أكشن
+https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/action/playlist/1.m3u8
+#EXTINF:-1 tvg-name="MBC دراما مصر I 4K" tvg-logo="http://widget.ottplayer.tv/upictures/8f3b5b52-af8d-441c-897b-a66bb9ca14d8.png" group-title="Entertainment",MBC دراما مصر I 4K
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_5.m3u8
+#EXTINF:-1 tvg-name="MBC 4 (1080p)" group-title="Entertainment",MBC 4 (1080p)
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-name="MBC 5 (1080p)" group-title="Entertainment",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-name="MBC Masr 1 (1080p)" group-title="Entertainment",MBC Masr 1 (1080p)
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-name="Dubai one HD" group-title="General",Dubai one HD
+https://dminnvllta.cdn.mgmlcdn.com:443/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8

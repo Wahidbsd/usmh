@@ -1,0 +1,64 @@
+#EXTM3U
+# Playlist: Bein Sports Only
+# Created: 2026-04-13
+# Total Channels: 29
+# Source: http://arox.cc:8080
+
+#EXTINF:-1 tvg-id="1" tvg-name="BEIN SPORTS 1 FR" group-title="Bein Sports FR",BEIN SPORTS 1 FR
+http://arox.cc:8080/live/1100817324546248/1100817324546248/909.ts
+#EXTINF:-1 tvg-id="2" tvg-name="BEIN SPORTS 2 FR" group-title="Bein Sports FR",BEIN SPORTS 2 FR
+http://arox.cc:8080/live/1100817324546248/1100817324546248/907.ts
+#EXTINF:-1 tvg-id="3" tvg-name="BEIN SPORTS 3 FR" group-title="Bein Sports FR",BEIN SPORTS 3 FR
+http://arox.cc:8080/live/1100817324546248/1100817324546248/908.ts
+#EXTINF:-1 tvg-id="4" tvg-name="BEIN SPORTS MAX 4" group-title="Bein Sports FR",BEIN SPORTS MAX 4
+http://arox.cc:8080/live/1100817324546248/1100817324546248/900.ts
+#EXTINF:-1 tvg-id="5" tvg-name="BEIN SPORTS MAX 5" group-title="Bein Sports FR",BEIN SPORTS MAX 5
+http://arox.cc:8080/live/1100817324546248/1100817324546248/901.ts
+#EXTINF:-1 tvg-id="6" tvg-name="BEIN SPORTS MAX 6" group-title="Bein Sports FR",BEIN SPORTS MAX 6
+http://arox.cc:8080/live/1100817324546248/1100817324546248/902.ts
+#EXTINF:-1 tvg-id="7" tvg-name="BEIN SPORTS MAX 7" group-title="Bein Sports FR",BEIN SPORTS MAX 7
+http://arox.cc:8080/live/1100817324546248/1100817324546248/903.ts
+#EXTINF:-1 tvg-id="8" tvg-name="BEIN SPORTS MAX 8" group-title="Bein Sports FR",BEIN SPORTS MAX 8
+http://arox.cc:8080/live/1100817324546248/1100817324546248/904.ts
+#EXTINF:-1 tvg-id="9" tvg-name="BEIN SPORTS MAX 9" group-title="Bein Sports FR",BEIN SPORTS MAX 9
+http://arox.cc:8080/live/1100817324546248/1100817324546248/905.ts
+#EXTINF:-1 tvg-id="10" tvg-name="BEIN SPORTS MAX 10" group-title="Bein Sports FR",BEIN SPORTS MAX 10
+http://arox.cc:8080/live/1100817324546248/1100817324546248/906.ts
+#EXTINF:-1 tvg-id="11" tvg-name="QA| BEIN SPORTS 1 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 1 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183163.ts
+#EXTINF:-1 tvg-id="12" tvg-name="QA| BEIN SPORTS 2 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 2 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183164.ts
+#EXTINF:-1 tvg-id="13" tvg-name="QA| BEIN SPORTS 3 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 3 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183165.ts
+#EXTINF:-1 tvg-id="14" tvg-name="QA| BEIN SPORTS 4 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 4 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183166.ts
+#EXTINF:-1 tvg-id="15" tvg-name="QA| BEIN SPORTS 5 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 5 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183167.ts
+#EXTINF:-1 tvg-id="16" tvg-name="QA| BEIN SPORTS 6 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 6 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183168.ts
+#EXTINF:-1 tvg-id="17" tvg-name="QA| BEIN SPORTS 7 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 7 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183169.ts
+#EXTINF:-1 tvg-id="18" tvg-name="QA| BEIN SPORTS 8 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 8 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183170.ts
+#EXTINF:-1 tvg-id="19" tvg-name="QA| BEIN SPORTS 9 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS 9 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183171.ts
+#EXTINF:-1 tvg-id="20" tvg-name="QA| BEIN SPORTS EXTRA 1 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS EXTRA 1 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183172.ts
+#EXTINF:-1 tvg-id="21" tvg-name="QA| BEIN SPORTS EXTRA 2 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS EXTRA 2 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183173.ts
+#EXTINF:-1 tvg-id="22" tvg-name="QA| BEIN SPORTS EXTRA 3 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS EXTRA 3 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183174.ts
+#EXTINF:-1 tvg-id="23" tvg-name="QA| BEIN SPORTS GLOBAL |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS GLOBAL |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183175.ts
+#EXTINF:-1 tvg-id="24" tvg-name="QA| BEIN SPORTS FRENCH 1 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS FRENCH 1 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183176.ts
+#EXTINF:-1 tvg-id="25" tvg-name="QA| BEIN SPORTS FRENCH 2 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS FRENCH 2 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183177.ts
+#EXTINF:-1 tvg-id="26" tvg-name="QA| BEIN SPORTS FRENCH 3 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS FRENCH 3 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183178.ts
+#EXTINF:-1 tvg-id="27" tvg-name="QA| BEIN SPORTS ENGLISH 1 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS ENGLISH 1 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183179.ts
+#EXTINF:-1 tvg-id="28" tvg-name="QA| BEIN SPORTS ENGLISH 2 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS ENGLISH 2 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183180.ts
+#EXTINF:-1 tvg-id="29" tvg-name="QA| BEIN SPORTS ENGLISH 3 |4K|" group-title="Bein Sports 4K QA",QA| BEIN SPORTS ENGLISH 3 |4K|
+http://arox.cc:8080/live/1100817324546248/1100817324546248/183181.ts

@@ -1,0 +1,158 @@
+#EXTM3U
+# Playlist: French TV Channels (Organized)
+# Created: 2026-04-13
+# Total Channels: 72
+# Source: http://arox.cc:8080
+
+
+#EXTGRP:FRANCE GENERAL
+#EXTINF:-1 tvg-id="1" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TF1_logo_2013.svg/320px-TF1_logo_2013.svg.png" group-title="FRANCE GENERAL",TF1
+http://arox.cc:8080/live/1100817324546248/1100817324546248/395.ts
+#EXTINF:-1 tvg-id="2" tvg-name="FRANCE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/France_2_logo_2018.svg/320px-France_2_logo_2018.svg.png" group-title="FRANCE GENERAL",FRANCE 2
+http://arox.cc:8080/live/1100817324546248/1100817324546248/396.ts
+#EXTINF:-1 tvg-id="3" tvg-name="FRANCE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France_3_logo_2018.svg/320px-France_3_logo_2018.svg.png" group-title="FRANCE GENERAL",FRANCE 3
+http://arox.cc:8080/live/1100817324546248/1100817324546248/397.ts
+#EXTINF:-1 tvg-id="4" tvg-name="FRANCE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/France_4_logo_2018.svg/320px-France_4_logo_2018.svg.png" group-title="FRANCE GENERAL",FRANCE 4
+http://arox.cc:8080/live/1100817324546248/1100817324546248/398.ts
+#EXTINF:-1 tvg-id="5" tvg-name="FRANCE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/France_5_logo_2018.svg/320px-France_5_logo_2018.svg.png" group-title="FRANCE GENERAL",FRANCE 5
+http://arox.cc:8080/live/1100817324546248/1100817324546248/399.ts
+#EXTINF:-1 tvg-id="6" tvg-name="FRANCE O" tvg-logo="" group-title="FRANCE GENERAL",FRANCE O
+http://arox.cc:8080/live/1100817324546248/1100817324546248/400.ts
+#EXTINF:-1 tvg-id="7" tvg-name="TF1 SERIES FILMS" tvg-logo="" group-title="FRANCE GENERAL",TF1 SERIES FILMS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/401.ts
+#EXTINF:-1 tvg-id="8" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TMC_logo_2016.svg/320px-TMC_logo_2016.svg.png" group-title="FRANCE GENERAL",TMC
+http://arox.cc:8080/live/1100817324546248/1100817324546248/402.ts
+#EXTINF:-1 tvg-id="9" tvg-name="TFX" tvg-logo="" group-title="FRANCE GENERAL",TFX
+http://arox.cc:8080/live/1100817324546248/1100817324546248/403.ts
+#EXTINF:-1 tvg-id="10" tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NRJ_12_logo_2015.svg/320px-NRJ_12_logo_2015.svg.png" group-title="FRANCE GENERAL",NRJ 12
+http://arox.cc:8080/live/1100817324546248/1100817324546248/404.ts
+#EXTINF:-1 tvg-id="11" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/C8_logo_2016.svg/320px-C8_logo_2016.svg.png" group-title="FRANCE GENERAL",C8
+http://arox.cc:8080/live/1100817324546248/1100817324546248/405.ts
+#EXTINF:-1 tvg-id="12" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/W9_logo_2018.svg/320px-W9_logo_2018.svg.png" group-title="FRANCE GENERAL",W9
+http://arox.cc:8080/live/1100817324546248/1100817324546248/406.ts
+#EXTINF:-1 tvg-id="13" tvg-name="CSTAR" tvg-logo="" group-title="FRANCE GENERAL",CSTAR
+http://arox.cc:8080/live/1100817324546248/1100817324546248/407.ts
+#EXTINF:-1 tvg-id="14" tvg-name="GULLI" tvg-logo="" group-title="FRANCE GENERAL",GULLI
+http://arox.cc:8080/live/1100817324546248/1100817324546248/408.ts
+#EXTINF:-1 tvg-id="15" tvg-name="6TER" tvg-logo="" group-title="FRANCE GENERAL",6TER
+http://arox.cc:8080/live/1100817324546248/1100817324546248/409.ts
+#EXTINF:-1 tvg-id="16" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/M6_logo_2020.svg/320px-M6_logo_2020.svg.png" group-title="FRANCE GENERAL",M6
+http://arox.cc:8080/live/1100817324546248/1100817324546248/410.ts
+#EXTINF:-1 tvg-id="17" tvg-name="M6 BOUTIQUE" tvg-logo="" group-title="FRANCE GENERAL",M6 BOUTIQUE
+http://arox.cc:8080/live/1100817324546248/1100817324546248/411.ts
+
+#EXTGRP:FRANCE NEWS
+#EXTINF:-1 tvg-id="18" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24_logo.svg/320px-France24_logo.svg.png" group-title="FRANCE NEWS",FRANCE 24
+http://arox.cc:8080/live/1100817324546248/1100817324546248/412.ts
+#EXTINF:-1 tvg-id="19" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BFM_TV_logo_2019.svg/320px-BFM_TV_logo_2019.svg.png" group-title="FRANCE NEWS",BFM TV
+http://arox.cc:8080/live/1100817324546248/1100817324546248/413.ts
+#EXTINF:-1 tvg-id="20" tvg-name="BFM BUSINESS" tvg-logo="" group-title="FRANCE NEWS",BFM BUSINESS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/414.ts
+#EXTINF:-1 tvg-id="21" tvg-name="BFM PARIS" tvg-logo="" group-title="FRANCE NEWS",BFM PARIS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/415.ts
+#EXTINF:-1 tvg-id="22" tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Euronews_2016_logo.svg/320px-Euronews_2016_logo.svg.png" group-title="FRANCE NEWS",EURONEWS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/416.ts
+#EXTINF:-1 tvg-id="23" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/LCI_logo_2017.svg/320px-LCI_logo_2017.svg.png" group-title="FRANCE NEWS",LCI
+http://arox.cc:8080/live/1100817324546248/1100817324546248/417.ts
+#EXTINF:-1 tvg-id="24" tvg-name="FRANCE INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Franceinfo_logo_2018.svg/320px-Franceinfo_logo_2018.svg.png" group-title="FRANCE NEWS",FRANCE INFO
+http://arox.cc:8080/live/1100817324546248/1100817324546248/418.ts
+#EXTINF:-1 tvg-id="25" tvg-name="C NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/CNews_logo_2017.svg/320px-CNews_logo_2017.svg.png" group-title="FRANCE NEWS",C NEWS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/419.ts
+#EXTINF:-1 tvg-id="26" tvg-name="TV5 MONDE" tvg-logo="" group-title="FRANCE NEWS",TV5 MONDE
+http://arox.cc:8080/live/1100817324546248/1100817324546248/420.ts
+#EXTINF:-1 tvg-id="27" tvg-name="TV5 MONDE INFO" tvg-logo="" group-title="FRANCE NEWS",TV5 MONDE INFO
+http://arox.cc:8080/live/1100817324546248/1100817324546248/421.ts
+#EXTINF:-1 tvg-id="28" tvg-name="i24 NEWS" tvg-logo="" group-title="FRANCE NEWS",i24 NEWS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/422.ts
+#EXTINF:-1 tvg-id="29" tvg-name="LCP" tvg-logo="" group-title="FRANCE NEWS",LCP
+http://arox.cc:8080/live/1100817324546248/1100817324546248/423.ts
+#EXTINF:-1 tvg-id="30" tvg-name="PUBLIC SENAT" tvg-logo="" group-title="FRANCE NEWS",PUBLIC SENAT
+http://arox.cc:8080/live/1100817324546248/1100817324546248/424.ts
+
+#EXTGRP:FRANCE MOVIES
+#EXTINF:-1 tvg-id="31" tvg-name="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Canal%2B_logo_1995.svg/320px-Canal%2B_logo_1995.svg.png" group-title="FRANCE MOVIES",CANAL+
+http://arox.cc:8080/live/1100817324546248/1100817324546248/425.ts
+#EXTINF:-1 tvg-id="32" tvg-name="CANAL+ CINEMA" tvg-logo="" group-title="FRANCE MOVIES",CANAL+ CINEMA
+http://arox.cc:8080/live/1100817324546248/1100817324546248/426.ts
+#EXTINF:-1 tvg-id="33" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="FRANCE MOVIES",CANAL+ SPORT
+http://arox.cc:8080/live/1100817324546248/1100817324546248/427.ts
+#EXTINF:-1 tvg-id="34" tvg-name="CANAL+ DECALE" tvg-logo="" group-title="FRANCE MOVIES",CANAL+ DECALE
+http://arox.cc:8080/live/1100817324546248/1100817324546248/428.ts
+#EXTINF:-1 tvg-id="35" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="FRANCE MOVIES",CANAL+ FAMILY
+http://arox.cc:8080/live/1100817324546248/1100817324546248/429.ts
+#EXTINF:-1 tvg-id="36" tvg-name="CINE+ PREMIER" tvg-logo="" group-title="FRANCE MOVIES",CINE+ PREMIER
+http://arox.cc:8080/live/1100817324546248/1100817324546248/430.ts
+#EXTINF:-1 tvg-id="37" tvg-name="CINE+ FRISSON" tvg-logo="" group-title="FRANCE MOVIES",CINE+ FRISSON
+http://arox.cc:8080/live/1100817324546248/1100817324546248/431.ts
+#EXTINF:-1 tvg-id="38" tvg-name="CINE+ EMOTION" tvg-logo="" group-title="FRANCE MOVIES",CINE+ EMOTION
+http://arox.cc:8080/live/1100817324546248/1100817324546248/432.ts
+#EXTINF:-1 tvg-id="39" tvg-name="CINE+ FAMIZ" tvg-logo="" group-title="FRANCE MOVIES",CINE+ FAMIZ
+http://arox.cc:8080/live/1100817324546248/1100817324546248/433.ts
+#EXTINF:-1 tvg-id="40" tvg-name="CINE+ CLUB" tvg-logo="" group-title="FRANCE MOVIES",CINE+ CLUB
+http://arox.cc:8080/live/1100817324546248/1100817324546248/434.ts
+#EXTINF:-1 tvg-id="41" tvg-name="CINE+ CLASSIC" tvg-logo="" group-title="FRANCE MOVIES",CINE+ CLASSIC
+http://arox.cc:8080/live/1100817324546248/1100817324546248/435.ts
+#EXTINF:-1 tvg-id="42" tvg-name="OCS MAX" tvg-logo="" group-title="FRANCE MOVIES",OCS MAX
+http://arox.cc:8080/live/1100817324546248/1100817324546248/436.ts
+#EXTINF:-1 tvg-id="43" tvg-name="OCS CITY" tvg-logo="" group-title="FRANCE MOVIES",OCS CITY
+http://arox.cc:8080/live/1100817324546248/1100817324546248/437.ts
+#EXTINF:-1 tvg-id="44" tvg-name="OCS CHOC" tvg-logo="" group-title="FRANCE MOVIES",OCS CHOC
+http://arox.cc:8080/live/1100817324546248/1100817324546248/438.ts
+#EXTINF:-1 tvg-id="45" tvg-name="OCS GEANTS" tvg-logo="" group-title="FRANCE MOVIES",OCS GEANTS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/439.ts
+#EXTINF:-1 tvg-id="46" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="FRANCE MOVIES",PARAMOUNT CHANNEL
+http://arox.cc:8080/live/1100817324546248/1100817324546248/440.ts
+#EXTINF:-1 tvg-id="47" tvg-name="PARAMOUNT CHANNEL DECALE" tvg-logo="" group-title="FRANCE MOVIES",PARAMOUNT CHANNEL DECALE
+http://arox.cc:8080/live/1100817324546248/1100817324546248/441.ts
+#EXTINF:-1 tvg-id="48" tvg-name="TCM CINEMA" tvg-logo="" group-title="FRANCE MOVIES",TCM CINEMA
+http://arox.cc:8080/live/1100817324546248/1100817324546248/442.ts
+#EXTINF:-1 tvg-id="49" tvg-name="ACTION" tvg-logo="" group-title="FRANCE MOVIES",ACTION
+http://arox.cc:8080/live/1100817324546248/1100817324546248/443.ts
+#EXTINF:-1 tvg-id="50" tvg-name="POLAR+" tvg-logo="" group-title="FRANCE MOVIES",POLAR+
+http://arox.cc:8080/live/1100817324546248/1100817324546248/444.ts
+#EXTINF:-1 tvg-id="51" tvg-name="WAR TV" tvg-logo="" group-title="FRANCE MOVIES",WAR TV
+http://arox.cc:8080/live/1100817324546248/1100817324546248/445.ts
+
+#EXTGRP:FRANCE ENTERTAINMENT
+#EXTINF:-1 tvg-id="52" tvg-name="COMEDIE+" tvg-logo="" group-title="FRANCE ENTERTAINMENT",COMEDIE+
+http://arox.cc:8080/live/1100817324546248/1100817324546248/446.ts
+#EXTINF:-1 tvg-id="53" tvg-name="PIWI+" tvg-logo="" group-title="FRANCE ENTERTAINMENT",PIWI+
+http://arox.cc:8080/live/1100817324546248/1100817324546248/447.ts
+#EXTINF:-1 tvg-id="54" tvg-name="TELETOON+" tvg-logo="" group-title="FRANCE ENTERTAINMENT",TELETOON+
+http://arox.cc:8080/live/1100817324546248/1100817324546248/448.ts
+#EXTINF:-1 tvg-id="55" tvg-name="BOOMERANG" tvg-logo="" group-title="FRANCE ENTERTAINMENT",BOOMERANG
+http://arox.cc:8080/live/1100817324546248/1100817324546248/449.ts
+#EXTINF:-1 tvg-id="56" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="FRANCE ENTERTAINMENT",CARTOON NETWORK
+http://arox.cc:8080/live/1100817324546248/1100817324546248/450.ts
+#EXTINF:-1 tvg-id="57" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="FRANCE ENTERTAINMENT",DISNEY CHANNEL
+http://arox.cc:8080/live/1100817324546248/1100817324546248/451.ts
+#EXTINF:-1 tvg-id="58" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="FRANCE ENTERTAINMENT",DISNEY JUNIOR
+http://arox.cc:8080/live/1100817324546248/1100817324546248/452.ts
+#EXTINF:-1 tvg-id="59" tvg-name="NICKELODEON" tvg-logo="" group-title="FRANCE ENTERTAINMENT",NICKELODEON
+http://arox.cc:8080/live/1100817324546248/1100817324546248/453.ts
+#EXTINF:-1 tvg-id="60" tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="FRANCE ENTERTAINMENT",NICKELODEON JUNIOR
+http://arox.cc:8080/live/1100817324546248/1100817324546248/454.ts
+#EXTINF:-1 tvg-id="61" tvg-name="CANAL J" tvg-logo="" group-title="FRANCE ENTERTAINMENT",CANAL J
+http://arox.cc:8080/live/1100817324546248/1100817324546248/455.ts
+#EXTINF:-1 tvg-id="62" tvg-name="TIJI" tvg-logo="" group-title="FRANCE ENTERTAINMENT",TIJI
+http://arox.cc:8080/live/1100817324546248/1100817324546248/456.ts
+#EXTINF:-1 tvg-id="63" tvg-name="ZOUZOUS" tvg-logo="" group-title="FRANCE ENTERTAINMENT",ZOUZOUS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/457.ts
+#EXTINF:-1 tvg-id="64" tvg-name="BOING" tvg-logo="" group-title="FRANCE ENTERTAINMENT",BOING
+http://arox.cc:8080/live/1100817324546248/1100817324546248/458.ts
+#EXTINF:-1 tvg-id="65" tvg-name="TOONAMI" tvg-logo="" group-title="FRANCE ENTERTAINMENT",TOONAMI
+http://arox.cc:8080/live/1100817324546248/1100817324546248/459.ts
+#EXTINF:-1 tvg-id="66" tvg-name="MTV" tvg-logo="" group-title="FRANCE ENTERTAINMENT",MTV
+http://arox.cc:8080/live/1100817324546248/1100817324546248/460.ts
+#EXTINF:-1 tvg-id="67" tvg-name="MTV HITS" tvg-logo="" group-title="FRANCE ENTERTAINMENT",MTV HITS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/461.ts
+#EXTINF:-1 tvg-id="68" tvg-name="TRACE URBAN" tvg-logo="" group-title="FRANCE ENTERTAINMENT",TRACE URBAN
+http://arox.cc:8080/live/1100817324546248/1100817324546248/462.ts
+#EXTINF:-1 tvg-id="69" tvg-name="TRACE TROPICAL" tvg-logo="" group-title="FRANCE ENTERTAINMENT",TRACE TROPICAL
+http://arox.cc:8080/live/1100817324546248/1100817324546248/463.ts
+#EXTINF:-1 tvg-id="70" tvg-name="TRACE AFRICA" tvg-logo="" group-title="FRANCE ENTERTAINMENT",TRACE AFRICA
+http://arox.cc:8080/live/1100817324546248/1100817324546248/464.ts
+#EXTINF:-1 tvg-id="71" tvg-name="NRJ HITS" tvg-logo="" group-title="FRANCE ENTERTAINMENT",NRJ HITS
+http://arox.cc:8080/live/1100817324546248/1100817324546248/465.ts
+#EXTINF:-1 tvg-id="72" tvg-name="M6 MUSIC" tvg-logo="" group-title="FRANCE ENTERTAINMENT",M6 MUSIC
+http://arox.cc:8080/live/1100817324546248/1100817324546248/466.ts

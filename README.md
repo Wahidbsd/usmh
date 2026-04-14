@@ -18,3 +18,5 @@ http://live.lynxiptv.xyz/get.php?username=211149257319&password=cT7IPSZ8rC&type=
 
 json.   http://redfoxx.vip:8080/player_api.php?username=Gabrielvip&password=yamDg73&action=get_live_streams
 https://m3uedit.com/
+
+http://ksauae.xyz:8080/get.php?username=462738737337&password=352672622626&type=m3u_plus&output=m3u8

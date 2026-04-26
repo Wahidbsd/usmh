@@ -1,107 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="550434" tvg-name="ALWAN F1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN F1 4K
-http://5starip.com:8080/92164982129771/47825113539654/550434
-#EXTINF:-1 tvg-id="550435" tvg-name="ALWAN WWE 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN WWE 4K
-http://5starip.com:8080/92164982129771/47825113539654/550435
-#EXTINF:-1 tvg-id="550421" tvg-name="ALWAN UFC 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN UFC 4K
-http://5starip.com:8080/92164982129771/47825113539654/550421
-#EXTINF:-1 tvg-id="550424" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 1 4K
-http://5starip.com:8080/92164982129771/47825113539654/550424
-#EXTINF:-1 tvg-id="550425" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 2 4K
-http://5starip.com:8080/92164982129771/47825113539654/550425
-#EXTINF:-1 tvg-id="550426" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 3 4K
-http://5starip.com:8080/92164982129771/47825113539654/550426
-#EXTINF:-1 tvg-id="550427" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 4 4K
-http://5starip.com:8080/92164982129771/47825113539654/550427
-#EXTINF:-1 tvg-id="550428" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 5 4K
-http://5starip.com:8080/92164982129771/47825113539654/550428
-#EXTINF:-1 tvg-id="550429" tvg-name="ALWAN SPORT 6 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 6 4K
-http://5starip.com:8080/92164982129771/47825113539654/550429
-#EXTINF:-1 tvg-id="550430" tvg-name="ALWAN SPORT 7 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 7 4K
-http://5starip.com:8080/92164982129771/47825113539654/550430
-#EXTINF:-1 tvg-id="550431" tvg-name="ALWAN SPORT 8 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 8 4K
-http://5starip.com:8080/92164982129771/47825113539654/550431
-#EXTINF:-1 tvg-id="550432" tvg-name="ALWAN SPORT 9 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 9 4K
-http://5starip.com:8080/92164982129771/47825113539654/550432
-#EXTINF:-1 tvg-id="550433" tvg-name="ALWAN SPORT 10 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", ALWAN SPORT 10 4K
-http://5starip.com:8080/92164982129771/47825113539654/550433
-#EXTINF:-1 tvg-id="542659" tvg-name="[KSA] KSA Alwan Sport 1" tvg-logo="http://pic.apkdt.co/pic/mix2/EuroSport1.png" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", [KSA] KSA Alwan Sport 1
-http://5starip.com:8080/92164982129771/47825113539654/542659
-#EXTINF:-1 tvg-id="542660" tvg-name="[KSA] KSA Alwan Sport 2" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", [KSA] KSA Alwan Sport 2
-http://5starip.com:8080/92164982129771/47825113539654/542660
-#EXTINF:-1 tvg-id="542661" tvg-name="[KSA] KSA Alwan sport 3" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", [KSA] KSA Alwan sport 3
-http://5starip.com:8080/92164982129771/47825113539654/542661
-#EXTINF:-1 tvg-id="542662" tvg-name="[KSA] KSA Alwan sport 4" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", [KSA] KSA Alwan sport 4
-http://5starip.com:8080/92164982129771/47825113539654/542662
-#EXTINF:-1 tvg-id="542663" tvg-name="[KSA] KSA Alwan Sport 5" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", [KSA] KSA Alwan Sport 5
-http://5starip.com:8080/92164982129771/47825113539654/542663
-#EXTINF:-1 tvg-id="542664" tvg-name="[KSA] KSA Alwan Sport 6" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", [KSA] KSA Alwan Sport 6
-http://5starip.com:8080/92164982129771/47825113539654/542664
-#EXTINF:-1 tvg-id="550452" tvg-name="Alwan Sport 1" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", Alwan Sport 1
-http://5starip.com:8080/92164982129771/47825113539654/550452
-#EXTINF:-1 tvg-id="550451" tvg-name="Alwan Sport 2" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", Alwan Sport 2
-http://5starip.com:8080/92164982129771/47825113539654/550451
-#EXTINF:-1 tvg-id="550436" tvg-name="Alwan sport 3" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", Alwan sport 3
-http://5starip.com:8080/92164982129771/47825113539654/550436
-#EXTINF:-1 tvg-id="550450" tvg-name="Alwan sport 4" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", Alwan sport 4
-http://5starip.com:8080/92164982129771/47825113539654/550450
-#EXTINF:-1 tvg-id="550422" tvg-name="Alwan Sport 5" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", Alwan Sport 5
-http://5starip.com:8080/92164982129771/47825113539654/550422
-#EXTINF:-1 tvg-id="550423" tvg-name="Alwan Sport 6" tvg-logo="" group-title="|SP| ⚽ ALWAN SPORTS  الدوري السعودي    ", Alwan Sport 6
-http://5starip.com:8080/92164982129771/47825113539654/550423
-#EXTINF:-1 tvg-id="438209" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 1 FHD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM SUPER 1 FHD
-http://5starip.com:8080/92164982129771/47825113539654/438209
-#EXTINF:-1 tvg-id="438210" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 1 HD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM SUPER 1 HD
-http://5starip.com:8080/92164982129771/47825113539654/438210
-#EXTINF:-1 tvg-id="438211" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 1 SD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM SUPER 1 SD
-http://5starip.com:8080/92164982129771/47825113539654/438211
-#EXTINF:-1 tvg-id="438212" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 2 FHD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM SUPER 2 FHD
-http://5starip.com:8080/92164982129771/47825113539654/438212
-#EXTINF:-1 tvg-id="438213" tvg-name="PL| POLSAT SPORT  PREMIUM SUPER 2 HD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM SUPER 2 HD
-http://5starip.com:8080/92164982129771/47825113539654/438213
-#EXTINF:-1 tvg-id="438215" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 3 FHD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 3 FHD
-http://5starip.com:8080/92164982129771/47825113539654/438215
-#EXTINF:-1 tvg-id="438216" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 3 HD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 3 HD
-http://5starip.com:8080/92164982129771/47825113539654/438216
-#EXTINF:-1 tvg-id="438218" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 4 FHD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 4 FHD
-http://5starip.com:8080/92164982129771/47825113539654/438218
-#EXTINF:-1 tvg-id="438219" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 4 HD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 4 HD
-http://5starip.com:8080/92164982129771/47825113539654/438219
-#EXTINF:-1 tvg-id="438221" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 5 FHD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 5 FHD
-http://5starip.com:8080/92164982129771/47825113539654/438221
-#EXTINF:-1 tvg-id="438222" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 5 HD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 5 HD
-http://5starip.com:8080/92164982129771/47825113539654/438222
-#EXTINF:-1 tvg-id="438224" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 6 FHD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 6 FHD
-http://5starip.com:8080/92164982129771/47825113539654/438224
-#EXTINF:-1 tvg-id="438225" tvg-name="PL| POLSAT SPORT  PREMIUM PPV 6 HD" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", PL| POLSAT SPORT  PREMIUM PPV 6 HD
-http://5starip.com:8080/92164982129771/47825113539654/438225
-#EXTINF:-1 tvg-id="438227" tvg-name="EXYU|  ARENA SPORT 1 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 1 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438227
-#EXTINF:-1 tvg-id="438228" tvg-name="EXYU|  ARENA SPORT 2 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 2 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438228
-#EXTINF:-1 tvg-id="438229" tvg-name="EXYU|  ARENA SPORT 3 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 3 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438229
-#EXTINF:-1 tvg-id="438230" tvg-name="EXYU|  ARENA SPORT 4 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 4 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438230
-#EXTINF:-1 tvg-id="438231" tvg-name="EXYU|  ARENA SPORT 5 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 5 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438231
-#EXTINF:-1 tvg-id="438232" tvg-name="EXYU|  ARENA SPORT 6 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 6 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438232
-#EXTINF:-1 tvg-id="438233" tvg-name="EXYU|  ARENA SPORT 7 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 7 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438233
-#EXTINF:-1 tvg-id="438234" tvg-name="EXYU|  ARENA SPORT 8 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 8 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438234
-#EXTINF:-1 tvg-id="438235" tvg-name="EXYU|  ARENA SPORT 9 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 9 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438235
-#EXTINF:-1 tvg-id="438236" tvg-name="EXYU|  ARENA SPORT 10 HD SR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 10 HD SR
-http://5starip.com:8080/92164982129771/47825113539654/438236
-#EXTINF:-1 tvg-id="438237" tvg-name="EXYU|  ARENA SPORT 1 HD HR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 1 HD HR
-http://5starip.com:8080/92164982129771/47825113539654/438237
-#EXTINF:-1 tvg-id="438238" tvg-name="EXYU|  ARENA SPORT 2 HD HR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 2 HD HR
-http://5starip.com:8080/92164982129771/47825113539654/438238
-#EXTINF:-1 tvg-id="438239" tvg-name="EXYU|  ARENA SPORT 3 HD HR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 3 HD HR
-http://5starip.com:8080/92164982129771/47825113539654/438239
-#EXTINF:-1 tvg-id="438240" tvg-name="EXYU|  ARENA SPORT 4 HD HR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 4 HD HR
+#EXTINF:-1 tvg-id="550434" tvg-name="ALWAN F1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN F1 4K
+http://5starip.com:8080/92164982129771/47825113539654/550434.ts
+#EXTINF:-1 tvg-id="550435" tvg-name="ALWAN WWE 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN WWE 4K
+http://5starip.com:8080/92164982129771/47825113539654/550435.ts
+#EXTINF:-1 tvg-id="550421" tvg-name="ALWAN UFC 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN UFC 4K
+http://5starip.com:8080/92164982129771/47825113539654/550421.ts
+#EXTINF:-1 tvg-id="550424" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 1 4K
+http://5starip.com:8080/92164982129771/47825113539654/550424.ts
+#EXTINF:-1 tvg-id="550425" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 2 4K
+http://5starip.com:8080/92164982129771/47825113539654/550425.ts
+#EXTINF:-1 tvg-id="550426" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 3 4K
+http://5starip.com:8080/92164982129771/47825113539654/550426.ts
+#EXTINF:-1 tvg-id="550427" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 4 4K
+http://5starip.com:8080/92164982129771/47825113539654/550427.ts
+#EXTINF:-1 tvg-id="550428" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 5 4K
+http://5starip.com:8080/92164982129771/47825113539654/550428.ts
+#EXTINF:-1 tvg-id="550429" tvg-name="ALWAN SPORT 6 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 6 4K
+http://5starip.com:8080/92164982129771/47825113539654/550429.ts
+#EXTINF:-1 tvg-id="550430" tvg-name="ALWAN SPORT 7 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 7 4K
+http://5starip.com:8080/92164982129771/47825113539654/550430.ts
+#EXTINF:-1 tvg-id="550431" tvg-name="ALWAN SPORT 8 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 8 4K
+http://5starip.com:8080/92164982129771/47825113539654/550431.ts
+#EXTINF:-1 tvg-id="550432" tvg-name="ALWAN SPORT 9 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 9 4K
+http://5starip.com:8080/92164982129771/47825113539654/550432.ts
+#EXTINF:-1 tvg-id="550433" tvg-name="ALWAN SPORT 10 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="|SP| ⚽ ALWAN SPORTS", ALWAN SPORT 10 4K
+http://5starip.com:8080/92164982129771/47825113539654/550433.ts#EXTINF:-1 tvg-id="438240" tvg-name="EXYU|  ARENA SPORT 4 HD HR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 4 HD HR
 http://5starip.com:8080/92164982129771/47825113539654/438240
 #EXTINF:-1 tvg-id="438241" tvg-name="EXYU|  ARENA SPORT 5 HD HR" tvg-logo="" group-title="|SP| ⚽  UEFA CHAMPIONS LEAGUE ", EXYU|  ARENA SPORT 5 HD HR
 http://5starip.com:8080/92164982129771/47825113539654/438241

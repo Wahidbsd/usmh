@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 xui-id="47" tvg-id="" tvg-name="|AR| Alwan Sport 1 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 1 FHD VIP
 http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPgB_sZpoBvU9vuNqHpEoZc/ts
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="|AR| Alwan Sport 2 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 2 FHD VIP

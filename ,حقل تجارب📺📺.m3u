@@ -19,9 +19,9 @@ EXTINF:-1 tvg-name="AR - Bagdad" tvg-logo="https://go4.pw/ARABE/alwan.png" group
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:0,FaselHD scare
-https://r466--5z6nc80t.c.scdns.io/stream/v1/hls/W4DmVOXf7tJZbfJVSXrZFw/1777417402/web42812x.faselhdx.bid/all/105.99.138.139/yes/DZ/0/05-02/1/9aa4ad3277d3aa2cd784c6d62580c951/155_hd720b_playlist.m3u8/DZ/0/04-02/1/faefd27671cadee56495d111fdd53097/160_hd1080b_playlist.m3u8
+https://r466--5z6nc80t.c.scdns.io/stream/v1/hls/zPP_puFJNZHyBWWeo7EYpg/1777418171/web42812x.faselhdx.bid/all/105.99.138.139/yes/DZ/0/05-02/1/9aa4ad3277d3aa2cd784c6d62580c951/160_hd1080b_playlist.m3u8aa4ad3277d3aa2cd784c6d62580c951/160_hd1080b_playliFaselFaselHDsaa4ad3277d3aa2cd784c6d62580c951/155_hd720b_playlist.m3u8/DZ/0/04-02/1/faefd27671cadee56495d111fdd53097/160_hd1080b_playlist.m3u8
 #EXTINF:0,FaselHD
-https://master.c.scdns.io/stream/v2/hzYEowC3hu0ZKF6lIa-_ew/1775204967/normal/0/105.102.240.241/yes/2bb15e2e7783a9061c14a0c90c0eea51/web430x.faselhdx.bid/master.m3u8
+https://r466--5z6nc80t.c.scdns.io/stream/v1/hls/zPP_puFJNZHyBWWeo7EYpg/1777418171/web42812x.faselhdx.bid/all/105.99.138.139/yes/DZ/0/05-02/1/9aa4ad3277d3aa2cd784c6d62580c951/160_hd1080b_playliFaselHDaa4ad3277d3aa2cd784c6d62580c951/160_hd1080b_playlist.m3u8ea51/web430x.faselhdx.bid/master.m3u8
 #EXTINF:0,FaselHD
 https://r466--2zudrdq9.c.scdns.io/stream/v1/hls/uPSw_9yaOuCAcAlBk29lUw/1775204969/web430x.faselhdx.bid/all/105.102.240.241/yes/DZ/0/02-02/4/2bb15e2e7783a9061c14a0c90c0eea51/140_sd360b_playlist.m3u8
 #EXT-X-ENDLIST

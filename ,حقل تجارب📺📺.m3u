@@ -1,106 +1,179 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1063875" tvg-name="|FR| EVENEMENT SPORT UHD" tvg-logo="https://www.evenement.com/wp-content/uploads/2023/01/evenements-sportifs-inratables.jpg" group-title="|FR| ✪ CANAL+ SPORT", |FR| EVENEMENT SPORT UHD
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/1063875
-#EXTINF:-1 tvg-id="250614" tvg-name="|FR| CANAL+ ULTRA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| CANAL+ ULTRA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/250614
-#EXTINF:-1 tvg-id="250612" tvg-name="|FR| CANAL FOOT+ ULTRA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FOOT+.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| CANAL FOOT+ ULTRA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/250612
-#EXTINF:-1 tvg-id="1848638" tvg-name="FR| ORANGE CANAL+ SA UHD 4K" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uX3Ioy2nnhy5jxF-XoCfacjDtZ6Sc6doMDoLcZWjOBFyB.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", FR| ORANGE CANAL+ SA UHD 4K
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/1848638
-#EXTINF:-1 tvg-id="1515136" tvg-name="|FR| INFORMATIONS SUR LE SERVICE" tvg-logo="https://www.herault-tribune.com/wp-content/uploads/2021/03/2020-06-13_083257_new_Info1-500x318-1.jpg" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| INFORMATIONS SUR LE SERVICE
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/1515136
-#EXTINF:-1 tvg-id="264279" tvg-name="|FR| TF1 ULTRA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TF1 ULTRA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/264279
-#EXTINF:-1 tvg-id="275758" tvg-name="|FR| TF1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TF1 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275758
-#EXTINF:-1 tvg-id="32750" tvg-name="|FR| TF1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="|FR| ✪ TNT HEVC", |FR| TF1 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/32750
-#EXTINF:-1 tvg-id="32750" tvg-name="|FR| TF1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="|FR| ✪ TNT HEVC", |FR| TF1 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/32750
-#EXTINF:-1 tvg-id="12775" tvg-name="|FR| TF1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HD.png" group-title="|FR| ✪ TNT SD", |FR| TF1 ˢᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/12775
-#EXTINF:-1 tvg-id="264280" tvg-name="|FR| M6 ULTRA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| M6 ULTRA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/264280
-#EXTINF:-1 tvg-id="275759" tvg-name="|FR| M6 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| M6 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275759
-#EXTINF:-1 tvg-id="582079" tvg-name="|FR| FRANCE 2 ULTRA ᵁᴴᴰ" tvg-logo="https://cdn.mgig.fr/2023/12/mga-e6f1c7d6-w375-w1500-w750_accroche.jpg" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| FRANCE 2 ULTRA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/582079
-#EXTINF:-1 tvg-id="1090663" tvg-name="|FR| FRANCE CH2 4K HDR" tvg-logo="https://i.pinimg.com/736x/dd/5a/b5/dd5ab5f586d4dcad7b0b3a259b74874e.jpg" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| FRANCE CH2 4K HDR
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/1090663
-#EXTINF:-1 tvg-id="275760" tvg-name="|FR| France 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE2HD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| France 2 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275760
-#EXTINF:-1 tvg-id="582080" tvg-name="|FR| FRANCE 3 ULTRA ᵁᴴᴰ" tvg-logo="https://cdn.mgig.fr/2023/12/mga-e6f1c7d6-w375-w1500-w750_accroche.jpg" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| FRANCE 3 ULTRA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/582080
-#EXTINF:-1 tvg-id="1233563" tvg-name="FR| FRANCE 3 GRAND EST FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", FR| FRANCE 3 GRAND EST FHD
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/1233563
-#EXTINF:-1 tvg-id="275761" tvg-name="|FR| France 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE3HD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| France 3 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275761
-#EXTINF:-1 tvg-id="275762" tvg-name="|FR| FRANCE 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE4HD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| FRANCE 4 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275762
-#EXTINF:-1 tvg-id="275804" tvg-name="|FR| France 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE5HD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| France 5 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275804
-#EXTINF:-1 tvg-id="275763" tvg-name="|FR| France 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE5HD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| France 5 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275763
-#EXTINF:-1 tvg-id="275670" tvg-name="|FR| Arte ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| Arte ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275670
-#EXTINF:-1 tvg-id="275669" tvg-name="|FR| 6TER ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5089.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| 6TER ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275669
-#EXTINF:-1 tvg-id="275766" tvg-name="|FR| W9 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| W9 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275766
-#EXTINF:-1 tvg-id="275753" tvg-name="|FR| NRJ 12 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5056.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| NRJ 12 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275753
-#EXTINF:-1 tvg-id="275722" tvg-name="|FR| Olympia TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/OLYMPIATV.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| Olympia TV ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275722
-#EXTINF:-1 tvg-id="275733" tvg-name="|FR| TFX ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TFX.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TFX ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275733
-#EXTINF:-1 tvg-id="275756" tvg-name="|FR| C8 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/C8HD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| C8 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275756
-#EXTINF:-1 tvg-id="275802" tvg-name="|FR| C STAR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CSTAR.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| C STAR ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275802
-#EXTINF:-1 tvg-id="275734" tvg-name="|FR| TMC ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TMC ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275734
-#EXTINF:-1 tvg-id="275768" tvg-name="|FR| TF1 Series ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HDFILMSERIES.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TF1 Series ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275768
-#EXTINF:-1 tvg-id="275738" tvg-name="|FR| TV EXPLORE ᵁᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/ABXPLORE.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TV EXPLORE ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275738
-#EXTINF:-1 tvg-id="275728" tvg-name="|FR| RMC Story ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSTORY.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| RMC Story ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275728
-#EXTINF:-1 tvg-id="275726" tvg-name="|FR| RMC Decouverte ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5058.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| RMC Decouverte ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275726
-#EXTINF:-1 tvg-id="1880036" tvg-name="|FR| E! Entertainment TV FHD" tvg-logo="https://logo.m3uassets.com/eentertainmenttv.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| E! Entertainment TV FHD
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/1880036
-#EXTINF:-1 tvg-id="275834" tvg-name="|FR| Cherie 25 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5092.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| Cherie 25 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275834
-#EXTINF:-1 tvg-id="275765" tvg-name="|FR| France Info ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCEINFOHD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| France Info ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275765
-#EXTINF:-1 tvg-id="275701" tvg-name="|FR| France Info  ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCEINFOHD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| France Info  ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275701
-#EXTINF:-1 tvg-id="275745" tvg-name="|FR| Luxe TV ULTRA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LUXETV.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| Luxe TV ULTRA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275745
-#EXTINF:-1 tvg-id="275835" tvg-name="|FR| CRIME DISTRICT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CRIMEDISTRICTHD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| CRIME DISTRICT ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275835
-#EXTINF:-1 tvg-id="275821" tvg-name="|FR| ES1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/es12.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| ES1 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275821
-#EXTINF:-1 tvg-id="275668" tvg-name="|FR| 13eme Rue ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/13-EME-RUE.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| 13eme Rue ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275668
-#EXTINF:-1 tvg-id="275732" tvg-name="|FR| TEVA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TEVAHD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TEVA ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275732
-#EXTINF:-1 tvg-id="275754" tvg-name="|FR| RTL9 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RTL9.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| RTL9 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275754
-#EXTINF:-1 tvg-id="275815" tvg-name="|FR| AB1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/AB1HD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| AB1 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275815
-#EXTINF:-1 tvg-id="275749" tvg-name="|FR|  AB3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/AB3.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR|  AB3 ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275749
-#EXTINF:-1 tvg-id="275832" tvg-name="|FR| SERIE CLUB ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5069.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| SERIE CLUB ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275832
-#EXTINF:-1 tvg-id="275808" tvg-name="|FR| Paris Premiere ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARISPREMIERE.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| Paris Premiere ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275808
-#EXTINF:-1 tvg-id="275767" tvg-name="|FR| TV BREIZH ᵁᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynOEfQR7Q-NE1GiKFZkCiCFRYBgEwukGuyCmdGbs13mG.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TV BREIZH ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275767
-#EXTINF:-1 tvg-id="275680" tvg-name="|FR| Bet ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BETHD.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| Bet ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275680
-#EXTINF:-1 tvg-id="275714" tvg-name="|FR| Museum ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/MUSEUM.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| Museum ᵁᴴᴰ
-http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275714
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="|AR| Alwan Sport 1 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 1 FHD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPgB_sZpoBvU9vuNqHpEoZc/ts
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="|AR| Alwan Sport 2 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 2 FHD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoL1ARndh0GEt9ZY6uQ8DGL8/ts
+#EXTINF:-1 xui-id="49" tvg-id="" tvg-name="|AR| Alwan Sport 3 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 3 FHD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoD8XyJxQFwfY5EjMzyWFi1M/ts
+#EXTINF:-1 xui-id="50" tvg-id="" tvg-name="|AR| Alwan Sport 4 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 4 FHD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoO_u8BD2eX33wyw6u2Qeu_c/ts
+#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="|AR| Alwan Sport 5 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 5 FHD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoKhbMqwDSyDLucz_IhxDP8E/ts
+#EXTINF:-1 xui-id="53" tvg-id="" tvg-name="|AR| Alwan Sport 1 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 1 HD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoIYUb6_nQnH0wj406kkROfw/ts
+#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="|AR| Alwan Sport 2 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 2 HD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNfp8TBNGY_p5d-Bgu5iMic/ts
+#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="|AR| Alwan Sport 3 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 3 HD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoDLgQYjEAIVZGGnV7HdP5M8/ts
+#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="|AR| Alwan Sport 4 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 4 HD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoLR_3IY4ZcSHV_DJUBN8Efw/ts
+#EXTINF:-1 xui-id="57" tvg-id="" tvg-name="|AR| Alwan Sport 5 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 5 HD VIP
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoA-rWgtyqb-uRaP5sFYUCZg/ts
+#EXTINF:-1 xui-id="263" tvg-id="" tvg-name="STARZ PLAY SPORT" tvg-logo="" group-title="SPORTS ARAB",STARZ PLAY SPORT
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoBFh9mAgX5WXI5gjaKnyquE/ts
+#EXTINF:-1 xui-id="66" tvg-id="" tvg-name="|AR| THMANYAH 1 HD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 1 HD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoGCnv651DzeziTAberLVj14/ts
+#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="|AR| THMANYAH 1 FHD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 1 FHD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPN03wn3lG7TIRyGBY1tmog/ts
+#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="|AR| THMANYAH 2 HD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 2 HD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoGSTQ8ulgXXiwFGhGbnwHjU/ts
+#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="|AR| THMANYAH 2 FHD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 2 FHD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoI72O8Y--qkot0h4AifQ-pw/ts
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="|AR| BEIN Sport News UHD" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport News UHD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoGns9fPI6MD5smt45i5hYXo/ts
+#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="|AR| BEIN Sport Global UHD" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport Global UHD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoKX2zMbWaLI_l9TMJ915HBQ/ts
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="|AR| BEIN Sport UHD 1" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 1
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoG4T0G2zsHn0pFNufc5mPfY/ts
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="|AR| BEIN Sport UHD 2" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 2
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoJip6xJhQKY7SPMgK2FbLzc/ts
+#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="|AR| BEIN Sport UHD 3" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 3
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPMY3HBSDdFr751-0lyx394/ts
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="aljazeera HD" tvg-logo="" group-title="INFOS",aljazeera HD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPGqKKT40sXgGp_rWIFBOF0/ts
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="AL jazeera FHD" tvg-logo="" group-title="INFOS",AL jazeera FHD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoMXKyiL55uGOBlfJK5xBZRs/ts
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="MBC 5" tvg-logo="" group-title="MAGHREB",MBC 5
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPDHZfV-bh1DcUQoJagMntA/ts
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="|AR| BEIN Sport UHD 4" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 4
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoJ9VeBWKe7-fCkH_0yopIoY/ts
+#EXTINF:-1 xui-id="156" tvg-id="" tvg-name="Al Arabiye" tvg-logo="" group-title="INFOS",Al Arabiye
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoB0UcfEwIpzSBb7Eq3vdr9I/ts
+#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="AL jazeera Mubasher" tvg-logo="" group-title="INFOS",AL jazeera Mubasher
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoEPGU9c5vTK5tM-axoI85o4/ts
+#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="CGTN Arabi" tvg-logo="" group-title="INFOS",CGTN Arabi
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPrXOtwb-7PgugXst6dP4zQ/ts
+#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="Sky news arabic" tvg-logo="" group-title="INFOS",Sky news arabic
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoDt7YAhphZk4WAMFMiudisI/ts
+#EXTINF:-1 xui-id="160" tvg-id="" tvg-name="CNBC arabiya" tvg-logo="" group-title="INFOS",CNBC arabiya
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoH1g45rftCbxs5A2DLkanr0/ts
+#EXTINF:-1 xui-id="161" tvg-id="" tvg-name="France24 Arabic" tvg-logo="" group-title="INFOS",France24 Arabic
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoO5LFtkoXnbmQPOIh6qdw2Y/ts
+#EXTINF:-1 xui-id="168" tvg-id="" tvg-name="Abu Dhabi Sports 1" tvg-logo="" group-title="SPORTS ARAB",Abu Dhabi Sports 1
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoCL9tfAi9PeAbNwTTB9E8Zg/ts
+#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="Al Aoula HD tnt" tvg-logo="" group-title="MAGHREB",Al Aoula HD tnt
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoL8T5m0PfydAjGzJ2jyyPeg/ts
+#EXTINF:-1 xui-id="170" tvg-id="" tvg-name="2M tnt" tvg-logo="" group-title="MAGHREB",2M tnt
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNZm_Z4s4baIVZA2pNasX5g/ts
+#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="Al Aoula Laayounet" tvg-logo="" group-title="MAGHREB",Al Aoula Laayounet
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNqFxfmDOgbD8NHJyIWQmbM/ts
+#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="Al maghribia" tvg-logo="" group-title="MAGHREB",Al maghribia
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoLFUU-v4NcxKHqjww4G61qU/ts
+#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="Assadissa" tvg-logo="" group-title="MAGHREB",Assadissa
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPEC7_1T4nYsuQXMKOPmwz4/ts
+#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="Athaqafia" tvg-logo="" group-title="MAGHREB",Athaqafia
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNL8zlGh2kF0yrFMnN7ZUuw/ts
+#EXTINF:-1 xui-id="175" tvg-id="" tvg-name="Tamazight" tvg-logo="" group-title="MAGHREB",Tamazight
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoK3MRcsRuFGB3lTYQ2aC5XA/ts
+#EXTINF:-1 xui-id="176" tvg-id="" tvg-name="Aflam" tvg-logo="" group-title="MAGHREB",Aflam
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoJI2aaBzO1GBAXLiuBD9g_8/ts
+#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="Tele maroc" tvg-logo="" group-title="MAGHREB",Tele maroc
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoLGWsR2mlPkKSCHi4hlYVe0/ts
+#EXTINF:-1 xui-id="178" tvg-id="" tvg-name="Chada tv" tvg-logo="" group-title="MAGHREB",Chada tv
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoLRS68dMIOTyTOPDVAwO2_o/ts
+#EXTINF:-1 xui-id="179" tvg-id="" tvg-name="Arryadia TnT" tvg-logo="" group-title="MAGHREB",Arryadia TnT
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoKFb5q3YiJ1lvc_Ura4JJIw/ts
+#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="Arryadia 1" tvg-logo="" group-title="MAGHREB",Arryadia 1
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoI4VKKv9XP8Fw8KWQrtfSAk/ts
+#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="Arryadia 2" tvg-logo="" group-title="MAGHREB",Arryadia 2
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoMStk4yrL1BopSZw4M88iIk/ts
+#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="Arryadia 3" tvg-logo="" group-title="MAGHREB",Arryadia 3
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoO7rC5PAur2EdVcDSyeBVKs/ts
+#EXTINF:-1 xui-id="183" tvg-id="" tvg-name="M24 maroc" tvg-logo="" group-title="MAGHREB",M24 maroc
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNkRdfPLUklvmIHultOTTrI/ts
+#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="MEDI1TV Maghreb" tvg-logo="" group-title="MAGHREB",MEDI1TV Maghreb
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPqjMceP7Kjpq11yCs-2RQc/ts
+#EXTINF:-1 xui-id="185" tvg-id="" tvg-name="MEDI1TV Afrique" tvg-logo="" group-title="MAGHREB",MEDI1TV Afrique
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoLVO-8U4soq44RzkugXoMEk/ts
+#EXTINF:-1 xui-id="186" tvg-id="" tvg-name="MEDI1TV Arabic" tvg-logo="" group-title="MAGHREB",MEDI1TV Arabic
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoHODMOS3guNFbyMW1QRAHQ0/ts
+#EXTINF:-1 xui-id="187" tvg-id="" tvg-name="MBC 1" tvg-logo="" group-title="Series",MBC 1
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoADXNDNUxN4C5OF-0F1pVb0/ts
+#EXTINF:-1 xui-id="188" tvg-id="" tvg-name="MBC 4" tvg-logo="" group-title="Series",MBC 4
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPgAoGrNnZNmE-cztO2JSi0/ts
+#EXTINF:-1 xui-id="189" tvg-id="" tvg-name="MBC DRAMA" tvg-logo="" group-title="Series",MBC DRAMA
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoD3_uxyJtqPt9qLzA68Z26A/ts
+#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="Mbc bollywood" tvg-logo="" group-title="Series",Mbc bollywood
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoG9zW41PnYynxywISm9YOPU/ts
+#EXTINF:-1 xui-id="198" tvg-id="" tvg-name="mbc msr" tvg-logo="" group-title="Series",mbc msr
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoHlOZXB1lHQUQBsZJzWwGZc/ts
+#EXTINF:-1 xui-id="195" tvg-id="" tvg-name="Mbc masr 2" tvg-logo="" group-title="Series",Mbc masr 2
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoFd-IQHotdsLa3lj7Oy2mpY/ts
+#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="mbc masr drama" tvg-logo="" group-title="Series",mbc masr drama
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoCc8AVgLpFQDenBX3G8aNz4/ts
+#EXTINF:-1 xui-id="196" tvg-id="" tvg-name="mbc iraq" tvg-logo="" group-title="Series",mbc iraq
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNZZgLsCLDAVEoc9wIvEHog/ts
+#EXTINF:-1 xui-id="209" tvg-id="" tvg-name="Rotana cinema" tvg-logo="" group-title="Movies",Rotana cinema
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoOBWlPM7S2kT-WDuzIk_H78/ts
+#EXTINF:-1 xui-id="210" tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="Series",Rotana Drama
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPodBnKaP3_A13igprmOoq0/ts
+#EXTINF:-1 xui-id="211" tvg-id="" tvg-name="Rotana comedy" tvg-logo="" group-title="Movies",Rotana comedy
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoBJXW78KjUd3NF0K2LtYMMs/ts
+#EXTINF:-1 xui-id="212" tvg-id="" tvg-name="Rotana cinema msr" tvg-logo="" group-title="Movies",Rotana cinema msr
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoHCtpo0Tvjg0_1Z6-DTZ8Io/ts
+#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="Movies",Rotana Classic
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPTEsJVxRxFwAmONV4G1DdU/ts
+#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="Rotana khaleejiya" tvg-logo="" group-title="Movies",Rotana khaleejiya
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoCvP3jpcik1cRnrwD9VgS-s/ts
+#EXTINF:-1 xui-id="215" tvg-id="" tvg-name="MBC 3" tvg-logo="" group-title="KIDS",MBC 3
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoHNlW7dG_QWrw098bIPK3tE/ts
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="KIDS",Spacetoon
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoHu_mjlq0QXxq2stgnBer1E/ts
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Samira TV" tvg-logo="" group-title="MAGHREB",Samira TV
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoLDDIS3fuQnTntZ4XXKch6U/ts
+#EXTINF:-1 xui-id="218" tvg-id="" tvg-name="kuwait sport" tvg-logo="" group-title="SPORTS ARAB",kuwait sport
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoDChMBnyk7Xpdyu2uTRqPLM/ts
+#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="oman sport" tvg-logo="" group-title="SPORTS ARAB",oman sport
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoKKGDtgJo4ggrhR8bIYE0EI/ts
+#EXTINF:-1 xui-id="221" tvg-id="" tvg-name="AL KASS 1" tvg-logo="" group-title="SPORTS ARAB",AL KASS 1
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoFK0R-_zqInVdU4h4QMCncc/ts
+#EXTINF:-1 xui-id="222" tvg-id="" tvg-name="AL KASS 2" tvg-logo="" group-title="SPORTS ARAB",AL KASS 2
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoP8FGGtLgxLs97TgoJpVMrk/ts
+#EXTINF:-1 xui-id="223" tvg-id="" tvg-name="AL KASS 3" tvg-logo="" group-title="SPORTS ARAB",AL KASS 3
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoK-qUeieikDx-A-tRZYsN0A/ts
+#EXTINF:-1 xui-id="220" tvg-id="" tvg-name="AL KASS 4" tvg-logo="" group-title="SPORTS ARAB",AL KASS 4
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPrNOom3CVNK4lRAdsVb6W0/ts
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="AL KASS 6" tvg-logo="" group-title="SPORTS ARAB",AL KASS 6
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoEKcSKcZNhpKeO0SMtGztsw/ts
+#EXTINF:-1 xui-id="225" tvg-id="" tvg-name="AL KASS 7" tvg-logo="" group-title="SPORTS ARAB",AL KASS 7
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoCn6OoTgO2m3Q1ZE_QeDBNQ/ts
+#EXTINF:-1 xui-id="226" tvg-id="" tvg-name="AL KASS 8" tvg-logo="" group-title="SPORTS ARAB",AL KASS 8
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoDwtpGZgp29fmHucBVliJsc/ts
+#EXTINF:-1 xui-id="238" tvg-id="" tvg-name="ES- DAZN LALIGA" tvg-logo="" group-title="SPORTS GLOBAL",ES- DAZN LALIGA
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoIk4ixOoesivgCXNi1d7lhw/ts
+#EXTINF:-1 xui-id="239" tvg-id="" tvg-name="ES- M+ LaLiga" tvg-logo="" group-title="SPORTS GLOBAL",ES- M+ LaLiga
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoP6RCP1R2YnO-5LCSKSylHo/ts
+#EXTINF:-1 xui-id="240" tvg-id="" tvg-name="FR- bein SPORTS 1" tvg-logo="" group-title="SPORTS GLOBAL",FR- bein SPORTS 1
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoBmr97WthJVos1Ac6spSZjY/ts
+#EXTINF:-1 xui-id="241" tvg-id="" tvg-name="FR- bein SPORTS 2" tvg-logo="" group-title="SPORTS GLOBAL",FR- bein SPORTS 2
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoAP-OP6UrKGiP6pPwRZu514/ts
+#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="FR- bein SPORTS 3" tvg-logo="" group-title="SPORTS GLOBAL",FR- bein SPORTS 3
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoCHt4o0hE9UE2M4afuAsC1I/ts
+#EXTINF:-1 xui-id="243" tvg-id="" tvg-name="FR- CANAL+ FOOT" tvg-logo="" group-title="SPORTS GLOBAL",FR- CANAL+ FOOT
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoExlJhHZAkcQr8Aj9lthE8w/ts
+#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="FR- CANAL+ SPORT" tvg-logo="" group-title="SPORTS GLOBAL",FR- CANAL+ SPORT
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPp_CSSW6ckA_dBoDw9tRKc/ts
+#EXTINF:-1 xui-id="245" tvg-id="" tvg-name="FR- CANAL+ SPORT 360" tvg-logo="" group-title="SPORTS GLOBAL",FR- CANAL+ SPORT 360
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoOg2rtCn6dkJSWFAFIPy6Hg/ts
+#EXTINF:-1 xui-id="250" tvg-id="" tvg-name="M+ Liga de Campeones" tvg-logo="" group-title="SPORTS GLOBAL",M+ Liga de Campeones
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNi2iPqhEGdS9cQJMYQw8DY/ts
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="|AR| BEIN Sport UHD 5" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 5
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoE5IjF3bSIea2QsF8UNSNp8/ts
+#EXTINF:-1 xui-id="266" tvg-id="" tvg-name="Atletico Madrid vs Arsenal FHD" tvg-logo="" group-title="LIVE EVENT",Atletico Madrid vs Arsenal FHD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoKDJabTQ-1n27TXfCmzvH_A/ts
+#EXTINF:-1 xui-id="267" tvg-id="" tvg-name="Atletico Madrid vs Arsenal HD" tvg-logo="" group-title="LIVE EVENT",Atletico Madrid vs Arsenal HD
+http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoOpSQGVTWYzaOeHga4N_eKE/ts
 #EXTINF:-1 tvg-id="275806" tvg-name="|FR| LCP ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LCP.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| LCP ᵁᴴᴰ
 http://royalibox.com:80/pm5rk1xi7n/27pb90qjip/275806
 #EXTINF:-1 tvg-id="275846" tvg-name="|FR| TV5 Monde Maghreb Orient ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDE.png" group-title="|FR| ✪ TOUTE LES CHAINES  ᵁᴴᴰ/ᴴᴰ", |FR| TV5 Monde Maghreb Orient ᵁᴴᴰ

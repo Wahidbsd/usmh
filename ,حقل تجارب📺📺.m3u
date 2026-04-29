@@ -13,15 +13,4 @@ http://arox.cc/live/24335738729223/24335738729223/251880.ts
 http://arox.cc/live/24335738729223/24335738729223/251883.ts
 #EXTINF:-1 tvg-name="AR - ALWAN SPORT 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
  http://prgktgu.mhqtv.xyz/live/CDDFM4ST2V/HHDT3YEYWT/1276553.ts
-#EXTINF:-1 tvg-name="AR - Bagdad" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | Bgdad SPORTS",AR - bagdad SPORT 1 4K
- http://ksauae.xyz:8080/series/bk0389/3097925455/457799.ts
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:0,FaselHD scare
-http://ksauae.xyz:8080/series/bk0389/3097925455/457799.tsDZ/0/03-02/3/3449b559fba9ec6634458e38ad37f22c/160_hd1080b_playlist.m3u8d3aa2cd784c6d62580c951/160_hd1080b_playlist.m3u8aa4ad3277d3aa2cd784c6d62580c951/160_hd1080b_playliFaselFaselHDsaa4ad3277d3aa2cd784c6d62580c951/155_hd720b_playlist.m3u8/DZ/0/04-02/1/faefd27671cadee56495d111fdd53097/160_hd1080b_playlist.m3u8
-#EXTINF:0,FaselHDscare
-http://ksauae.xyz:8080/series/bk0389/3097925455/457799.ts7d3aa2cd784c6d62580c951/160_hd1080b_playliFaselHDaa4ad3277d3aa2cd784c6d62580c951/160_hd1080b_playlist.m3u8ea51/web430x.faselhdx.bid/master.m3u8
-#EXTINF:0,FaselHD
-https://r466--2zudrdq9.c.scdns.io/stream/v1/hls/uPSw_9yaOuCAcAlBk29lUw/1775204969/web430x.faselhdx.bid/all/105.102.240.241/yes/DZ/0/02-02/4/2bb15e2e7783a9061c14a0c90c0eea51/140_sd360b_playlist.m3u8
-#EXT-X-ENDLIST
